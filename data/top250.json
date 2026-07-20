@@ -1,0 +1,4381 @@
+[
+  {
+    "rank": 1,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "runtimeMinutes": 142,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 9.3,
+    "imdbId": "tt0111161",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX600.jpg",
+    "director": "Frank Darabont",
+    "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "actors": "Tim Robbins, Morgan Freeman, Bob Gunton",
+    "awards": "Nominated for 7 Oscars. 21 wins & 43 nominations total"
+  },
+  {
+    "rank": 2,
+    "title": "The Godfather",
+    "year": 1972,
+    "runtimeMinutes": 175,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 9.2,
+    "imdbId": "tt0068646",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Francis Ford Coppola",
+    "plot": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+    "actors": "Marlon Brando, Al Pacino, James Caan",
+    "awards": "Won 3 Oscars. 31 wins & 30 nominations total"
+  },
+  {
+    "rank": 3,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "runtimeMinutes": 152,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 9.1,
+    "imdbId": "tt0468569",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX600.jpg",
+    "director": "Christopher Nolan",
+    "plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "actors": "Christian Bale, Heath Ledger, Aaron Eckhart",
+    "awards": "Won 2 Oscars. 159 wins & 163 nominations total"
+  },
+  {
+    "rank": 4,
+    "title": "The Godfather: Part II",
+    "year": 1974,
+    "runtimeMinutes": 202,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 9.0,
+    "imdbId": "tt0071562",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Francis Ford Coppola",
+    "plot": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+    "actors": "Al Pacino, Robert De Niro, Robert Duvall",
+    "awards": "Won 6 Oscars. 17 wins & 20 nominations total"
+  },
+  {
+    "rank": 5,
+    "title": "12 Angry Men",
+    "year": 1957,
+    "runtimeMinutes": 96,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 9.0,
+    "imdbId": "tt0050083",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX600.jpg",
+    "director": "Sidney Lumet",
+    "plot": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+    "actors": "Henry Fonda, Lee J. Cobb, Martin Balsam",
+    "awards": "Nominated for 3 Oscars. 17 wins & 13 nominations total"
+  },
+  {
+    "rank": 6,
+    "title": "Schindler's List",
+    "year": 1993,
+    "runtimeMinutes": 195,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "imdbRating": 8.9,
+    "imdbId": "tt0108052",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Steven Spielberg",
+    "plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "actors": "Liam Neeson, Ralph Fiennes, Ben Kingsley",
+    "awards": "Won 7 Oscars. 91 wins & 49 nominations total"
+  },
+  {
+    "rank": 7,
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "runtimeMinutes": 201,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "imdbRating": 9.0,
+    "imdbId": "tt0167260",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Peter Jackson",
+    "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "actors": "Elijah Wood, Viggo Mortensen, Ian McKellen",
+    "awards": "Won 11 Oscars. 209 wins & 124 nominations total"
+  },
+  {
+    "rank": 8,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "runtimeMinutes": 154,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.9,
+    "imdbId": "tt0110912",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Quentin Tarantino",
+    "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "actors": "John Travolta, Uma Thurman, Samuel L. Jackson",
+    "awards": "Won 1 Oscar. 70 wins & 75 nominations total"
+  },
+  {
+    "rank": 9,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "runtimeMinutes": 178,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "imdbRating": 8.8,
+    "imdbId": "tt0120737",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX600.jpg",
+    "director": "Peter Jackson",
+    "plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "actors": "Elijah Wood, Ian McKellen, Orlando Bloom",
+    "awards": "Won 4 Oscars. 121 wins & 126 nominations total"
+  },
+  {
+    "rank": 10,
+    "title": "The Good, the Bad and the Ugly",
+    "year": 1966,
+    "runtimeMinutes": 178,
+    "genres": [
+      "Adventure",
+      "Western"
+    ],
+    "imdbRating": 8.8,
+    "imdbId": "tt0060196",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX600.jpg",
+    "director": "Sergio Leone",
+    "plot": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+    "actors": "Clint Eastwood, Eli Wallach, Lee Van Cleef",
+    "awards": "3 wins & 6 nominations"
+  },
+  {
+    "rank": 11,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "runtimeMinutes": 142,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "imdbRating": 8.8,
+    "imdbId": "tt0109830",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX600.jpg",
+    "director": "Robert Zemeckis",
+    "plot": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweeth",
+    "actors": "Tom Hanks, Robin Wright, Gary Sinise",
+    "awards": "Won 6 Oscars. 50 wins & 75 nominations total"
+  },
+  {
+    "rank": 12,
+    "title": "Fight Club",
+    "year": 1999,
+    "runtimeMinutes": 139,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.8,
+    "imdbId": "tt0137523",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX600.jpg",
+    "director": "David Fincher",
+    "plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "actors": "Brad Pitt, Edward Norton, Meat Loaf",
+    "awards": "Nominated for 1 Oscar. 11 wins & 38 nominations total"
+  },
+  {
+    "rank": 13,
+    "title": "Inception",
+    "year": 2010,
+    "runtimeMinutes": 148,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "imdbRating": 8.8,
+    "imdbId": "tt1375666",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX600.jpg",
+    "director": "Christopher Nolan",
+    "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+    "actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",
+    "awards": "Won 4 Oscars. 157 wins & 220 nominations total"
+  },
+  {
+    "rank": 14,
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "runtimeMinutes": 179,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "imdbRating": 8.7,
+    "imdbId": "tt0167261",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Peter Jackson",
+    "plot": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+    "actors": "Elijah Wood, Ian McKellen, Viggo Mortensen",
+    "awards": "Won 2 Oscars. 126 wins & 138 nominations total"
+  },
+  {
+    "rank": 15,
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": 1980,
+    "runtimeMinutes": 124,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbRating": 8.7,
+    "imdbId": "tt0080684",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Irvin Kershner",
+    "plot": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",
+    "actors": "Mark Hamill, Harrison Ford, Carrie Fisher",
+    "awards": "Won 2 Oscars. 25 wins & 20 nominations total"
+  },
+  {
+    "rank": 16,
+    "title": "The Matrix",
+    "year": 1999,
+    "runtimeMinutes": 136,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "imdbRating": 8.7,
+    "imdbId": "tt0133093",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+    "actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+    "awards": "Won 4 Oscars. 42 wins & 51 nominations total"
+  },
+  {
+    "rank": 17,
+    "title": "Goodfellas",
+    "year": 1990,
+    "runtimeMinutes": 145,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.7,
+    "imdbId": "tt0099685",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Martin Scorsese",
+    "plot": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+    "actors": "Robert De Niro, Ray Liotta, Joe Pesci",
+    "awards": "Won 1 Oscar. 44 wins & 38 nominations total"
+  },
+  {
+    "rank": 18,
+    "title": "One Flew Over the Cuckoo's Nest",
+    "year": 1975,
+    "runtimeMinutes": 133,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.7,
+    "imdbId": "tt0073486",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX600.jpg",
+    "director": "Milos Forman",
+    "plot": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.",
+    "actors": "Jack Nicholson, Louise Fletcher, Michael Berryman",
+    "awards": "Won 5 Oscars. 38 wins & 16 nominations total"
+  },
+  {
+    "rank": 19,
+    "title": "Se7en",
+    "year": 1995,
+    "runtimeMinutes": 127,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "imdbRating": 8.6,
+    "imdbId": "tt0114369",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "David Fincher",
+    "plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+    "actors": "Morgan Freeman, Brad Pitt, Kevin Spacey",
+    "awards": "Nominated for 1 Oscar. 29 wins & 43 nominations total"
+  },
+  {
+    "rank": 20,
+    "title": "Seven Samurai",
+    "year": 1954,
+    "runtimeMinutes": 207,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "imdbRating": 8.6,
+    "imdbId": "tt0047478",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWE4ZDdhNmMtNzE5ZC00NzExLTlhNGMtY2ZhYjYzODEzODA1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX600.jpg",
+    "director": "Akira Kurosawa",
+    "plot": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+    "actors": "Toshirô Mifune, Takashi Shimura, Keiko Tsushima",
+    "awards": "Nominated for 2 Oscars. 5 wins & 8 nominations total"
+  },
+  {
+    "rank": 21,
+    "title": "It's a Wonderful Life",
+    "year": 1946,
+    "runtimeMinutes": 130,
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "imdbRating": 8.7,
+    "imdbId": "tt0038650",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SX600.jpg",
+    "director": "Frank Capra",
+    "plot": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+    "actors": "James Stewart, Donna Reed, Lionel Barrymore",
+    "awards": "Nominated for 5 Oscars. 6 wins & 6 nominations total"
+  },
+  {
+    "rank": 22,
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "runtimeMinutes": 118,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": 8.6,
+    "imdbId": "tt0102926",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Jonathan Demme",
+    "plot": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+    "actors": "Jodie Foster, Anthony Hopkins, Lawrence A. Bonney",
+    "awards": "Won 5 Oscars. 69 wins & 51 nominations total"
+  },
+  {
+    "rank": 23,
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "runtimeMinutes": 169,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "imdbRating": 8.6,
+    "imdbId": "tt0120815",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX600.jpg",
+    "director": "Steven Spielberg",
+    "plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+    "actors": "Tom Hanks, Matt Damon, Tom Sizemore",
+    "awards": "Won 5 Oscars. 79 wins & 75 nominations total"
+  },
+  {
+    "rank": 24,
+    "title": "City of God",
+    "year": 2002,
+    "runtimeMinutes": 130,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.6,
+    "imdbId": "tt0317248",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Fernando Meirelles, Kátia Lund",
+    "plot": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+    "actors": "Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele",
+    "awards": "Nominated for 4 Oscars. 74 wins & 50 nominations total"
+  },
+  {
+    "rank": 25,
+    "title": "Life Is Beautiful",
+    "year": 1997,
+    "runtimeMinutes": 116,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "imdbRating": 8.6,
+    "imdbId": "tt0118799",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX600.jpg",
+    "director": "Roberto Benigni",
+    "plot": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+    "actors": "Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",
+    "awards": "Won 3 Oscars. 72 wins & 52 nominations total"
+  },
+  {
+    "rank": 26,
+    "title": "The Green Mile",
+    "year": 1999,
+    "runtimeMinutes": 189,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ],
+    "imdbRating": 8.6,
+    "imdbId": "tt0120689",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_SX600.jpg",
+    "director": "Frank Darabont",
+    "plot": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+    "actors": "Tom Hanks, Michael Clarke Duncan, David Morse",
+    "awards": "Nominated for 4 Oscars. 15 wins & 37 nominations total"
+  },
+  {
+    "rank": 27,
+    "title": "Star Wars",
+    "year": 1977,
+    "runtimeMinutes": 121,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbRating": 8.6,
+    "imdbId": "tt0076759",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "George Lucas",
+    "plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vad",
+    "actors": "Mark Hamill, Harrison Ford, Carrie Fisher",
+    "awards": "Won 7 Oscars. 63 wins & 29 nominations total"
+  },
+  {
+    "rank": 28,
+    "title": "Interstellar",
+    "year": 2014,
+    "runtimeMinutes": 169,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "imdbRating": 8.7,
+    "imdbId": "tt0816692",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX600.jpg",
+    "director": "Christopher Nolan",
+    "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "actors": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+    "awards": "Won 1 Oscar. 44 wins & 148 nominations total"
+  },
+  {
+    "rank": 29,
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "runtimeMinutes": 137,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "imdbRating": 8.6,
+    "imdbId": "tt0103064",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "James Cameron",
+    "plot": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten-year-old son John from a more advanced and powerful cyborg.",
+    "actors": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",
+    "awards": "Won 4 Oscars. 36 wins & 33 nominations total"
+  },
+  {
+    "rank": 30,
+    "title": "Back to the Future",
+    "year": 1985,
+    "runtimeMinutes": 116,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "imdbRating": 8.6,
+    "imdbId": "tt0088763",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX600.jpg",
+    "director": "Robert Zemeckis",
+    "plot": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",
+    "actors": "Michael J. Fox, Christopher Lloyd, Lea Thompson",
+    "awards": "Won 1 Oscar. 22 wins & 25 nominations total"
+  },
+  {
+    "rank": 31,
+    "title": "Spirited Away",
+    "year": 2001,
+    "runtimeMinutes": 125,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "imdbRating": 8.6,
+    "imdbId": "tt0245429",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX600.jpg",
+    "director": "Hayao Miyazaki",
+    "plot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+    "actors": "Daveigh Chase, Suzanne Pleshette, Miyu Irino",
+    "awards": "Won 1 Oscar. 58 wins & 31 nominations total"
+  },
+  {
+    "rank": 32,
+    "title": "Psycho",
+    "year": 1960,
+    "runtimeMinutes": 109,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt0054215",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Alfred Hitchcock",
+    "plot": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+    "actors": "Anthony Perkins, Janet Leigh, Vera Miles",
+    "awards": "Nominated for 4 Oscars. 7 wins & 14 nominations total"
+  },
+  {
+    "rank": 33,
+    "title": "The Pianist",
+    "year": 2002,
+    "runtimeMinutes": 150,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "imdbRating": 8.6,
+    "imdbId": "tt0253474",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Roman Polanski",
+    "plot": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+    "actors": "Adrien Brody, Thomas Kretschmann, Frank Finlay",
+    "awards": "Won 3 Oscars. 57 wins & 74 nominations total"
+  },
+  {
+    "rank": 34,
+    "title": "Léon: The Professional",
+    "year": 1994,
+    "runtimeMinutes": 110,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.6,
+    "imdbId": "tt0110413",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODllNWE0MmEtYjUwZi00ZjY3LThmNmQtZjZlMjI2YTZjYmQ0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX600.jpg",
+    "director": "Luc Besson",
+    "plot": "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+    "actors": "Jean Reno, Gary Oldman, Natalie Portman",
+    "awards": "6 wins & 15 nominations"
+  },
+  {
+    "rank": 35,
+    "title": "Parasite",
+    "year": 2019,
+    "runtimeMinutes": 132,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt6751668",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX600.jpg",
+    "director": "Bong Joon Ho",
+    "plot": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "actors": "Kang-ho Song, Sun-kyun Lee, Yeo-jeong Cho",
+    "awards": "Won 4 Oscars. 308 wins & 271 nominations total"
+  },
+  {
+    "rank": 36,
+    "title": "The Lion King",
+    "year": 1994,
+    "runtimeMinutes": 88,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt0110357",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SX600.jpg",
+    "director": "Roger Allers, Rob Minkoff",
+    "plot": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+    "actors": "Matthew Broderick, Jeremy Irons, James Earl Jones",
+    "awards": "Won 2 Oscars. 39 wins & 35 nominations total"
+  },
+  {
+    "rank": 37,
+    "title": "Gladiator",
+    "year": 2000,
+    "runtimeMinutes": 155,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt0172495",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Ridley Scott",
+    "plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "actors": "Russell Crowe, Joaquin Phoenix, Connie Nielsen",
+    "awards": "Won 5 Oscars. 59 wins & 106 nominations total"
+  },
+  {
+    "rank": 38,
+    "title": "American History X",
+    "year": 1998,
+    "runtimeMinutes": 119,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt0120586",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SX600.jpg",
+    "director": "Tony Kaye",
+    "plot": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+    "actors": "Edward Norton, Edward Furlong, Beverly D'Angelo",
+    "awards": "Nominated for 1 Oscar. 4 wins & 15 nominations total"
+  },
+  {
+    "rank": 39,
+    "title": "The Usual Suspects",
+    "year": 1995,
+    "runtimeMinutes": 106,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt0114814",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Bryan Singer",
+    "plot": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+    "actors": "Kevin Spacey, Gabriel Byrne, Chazz Palminteri",
+    "awards": "Won 2 Oscars. 37 wins & 17 nominations total"
+  },
+  {
+    "rank": 40,
+    "title": "The Departed",
+    "year": 2006,
+    "runtimeMinutes": 151,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt0407887",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SX600.jpg",
+    "director": "Martin Scorsese",
+    "plot": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "actors": "Leonardo DiCaprio, Matt Damon, Jack Nicholson",
+    "awards": "Won 4 Oscars. 97 wins & 141 nominations total"
+  },
+  {
+    "rank": 41,
+    "title": "The Prestige",
+    "year": 2006,
+    "runtimeMinutes": 130,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt0482571",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_SX600.jpg",
+    "director": "Christopher Nolan",
+    "plot": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+    "actors": "Christian Bale, Hugh Jackman, Scarlett Johansson",
+    "awards": "Nominated for 2 Oscars. 6 wins & 45 nominations total"
+  },
+  {
+    "rank": 42,
+    "title": "Casablanca",
+    "year": 1942,
+    "runtimeMinutes": 102,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt0034583",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX600.jpg",
+    "director": "Michael Curtiz",
+    "plot": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+    "actors": "Humphrey Bogart, Ingrid Bergman, Paul Henreid",
+    "awards": "Won 3 Oscars. 10 wins & 9 nominations total"
+  },
+  {
+    "rank": 43,
+    "title": "Whiplash",
+    "year": 2014,
+    "runtimeMinutes": 106,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt2582802",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX600.jpg",
+    "director": "Damien Chazelle",
+    "plot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+    "actors": "Miles Teller, J.K. Simmons, Melissa Benoist",
+    "awards": "Won 3 Oscars. 98 wins & 145 nominations total"
+  },
+  {
+    "rank": 44,
+    "title": "The Intouchables",
+    "year": 2011,
+    "runtimeMinutes": 112,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt1675434",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_SX600.jpg",
+    "director": "Olivier Nakache, Éric Toledano",
+    "plot": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+    "actors": "François Cluzet, Omar Sy, Anne Le Ny",
+    "awards": "Nominated for 1 BAFTA Film Award38 wins & 40 nominations total"
+  },
+  {
+    "rank": 45,
+    "title": "Modern Times",
+    "year": 1936,
+    "runtimeMinutes": 87,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt0027977",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Charles Chaplin",
+    "plot": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+    "actors": "Charles Chaplin, Paulette Goddard, Henry Bergman",
+    "awards": "4 wins & 1 nomination"
+  },
+  {
+    "rank": 46,
+    "title": "Once Upon a Time in the West",
+    "year": 1968,
+    "runtimeMinutes": 165,
+    "genres": [
+      "Western"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt0064116",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Sergio Leone",
+    "plot": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+    "actors": "Henry Fonda, Charles Bronson, Claudia Cardinale",
+    "awards": "4 wins & 5 nominations"
+  },
+  {
+    "rank": 47,
+    "title": "Hara-Kiri",
+    "year": 1962,
+    "runtimeMinutes": 133,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "imdbRating": 8.6,
+    "imdbId": "tt0056058",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX600.jpg",
+    "director": "Masaki Kobayashi",
+    "plot": "When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity.",
+    "actors": "Tatsuya Nakadai, Akira Ishihama, Shima Iwashita",
+    "awards": "9 wins & 3 nominations"
+  },
+  {
+    "rank": 48,
+    "title": "Grave of the Fireflies",
+    "year": 1988,
+    "runtimeMinutes": 89,
+    "genres": [
+      "Animation",
+      "Drama",
+      "War"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt0095327",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX600.jpg",
+    "director": "Isao Takahata",
+    "plot": "A young boy and his little sister struggle to survive in Japan during World War II.",
+    "actors": "Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi",
+    "awards": "3 wins"
+  },
+  {
+    "rank": 49,
+    "title": "Alien",
+    "year": 1979,
+    "runtimeMinutes": 117,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt0078748",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Ridley Scott",
+    "plot": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.",
+    "actors": "Sigourney Weaver, Tom Skerritt, John Hurt",
+    "awards": "Won 1 Oscar. 18 wins & 22 nominations total"
+  },
+  {
+    "rank": 50,
+    "title": "Rear Window",
+    "year": 1954,
+    "runtimeMinutes": 112,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt0047396",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX600.jpg",
+    "director": "Alfred Hitchcock",
+    "plot": "A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder, despite the skepticism of his fashion-model girlfriend.",
+    "actors": "James Stewart, Grace Kelly, Wendell Corey",
+    "awards": "Nominated for 4 Oscars. 6 wins & 13 nominations total"
+  },
+  {
+    "rank": 51,
+    "title": "City Lights",
+    "year": 1931,
+    "runtimeMinutes": 87,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt0021749",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Charles Chaplin",
+    "plot": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+    "actors": "Charles Chaplin, Virginia Cherrill, Florence Lee",
+    "awards": "3 wins & 1 nomination"
+  },
+  {
+    "rank": 52,
+    "title": "Memento",
+    "year": 2000,
+    "runtimeMinutes": 113,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt0209144",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Christopher Nolan",
+    "plot": "A man with short-term memory loss attempts to track down his wife's murderer.",
+    "actors": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",
+    "awards": "Nominated for 2 Oscars. 57 wins & 59 nominations total"
+  },
+  {
+    "rank": 53,
+    "title": "Cinema Paradiso",
+    "year": 1988,
+    "runtimeMinutes": 155,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt0095765",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_SX600.jpg",
+    "director": "Giuseppe Tornatore",
+    "plot": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
+    "actors": "Philippe Noiret, Enzo Cannavale, Antonella Attili",
+    "awards": "Won 1 Oscar. 25 wins & 32 nominations total"
+  },
+  {
+    "rank": 54,
+    "title": "Apocalypse Now",
+    "year": 1979,
+    "runtimeMinutes": 147,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "War"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt0078788",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDdhODg0MjYtYzBiOS00ZmI5LWEwZGYtZDEyNDU4MmQyNzFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Francis Ford Coppola",
+    "plot": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+    "actors": "Martin Sheen, Marlon Brando, Robert Duvall",
+    "awards": "Won 2 Oscars. 21 wins & 33 nominations total"
+  },
+  {
+    "rank": 55,
+    "title": "Indiana Jones and the Raiders of the Lost Ark",
+    "year": 1981,
+    "runtimeMinutes": 115,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0082971",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_SX600.jpg",
+    "director": "Steven Spielberg",
+    "plot": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
+    "actors": "Harrison Ford, Karen Allen, Paul Freeman",
+    "awards": "Won 5 Oscars. 37 wins & 24 nominations total"
+  },
+  {
+    "rank": 56,
+    "title": "Django Unchained",
+    "year": 2012,
+    "runtimeMinutes": 165,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt1853728",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SX600.jpg",
+    "director": "Quentin Tarantino",
+    "plot": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi.",
+    "actors": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio",
+    "awards": "Won 2 Oscars. 58 wins & 158 nominations total"
+  },
+  {
+    "rank": 57,
+    "title": "WALL·E",
+    "year": 2008,
+    "runtimeMinutes": 98,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0910970",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SX600.jpg",
+    "director": "Andrew Stanton",
+    "plot": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+    "actors": "Ben Burtt, Elissa Knight, Jeff Garlin",
+    "awards": "Won 1 Oscar. 94 wins & 95 nominations total"
+  },
+  {
+    "rank": 58,
+    "title": "The Lives of Others",
+    "year": 2006,
+    "runtimeMinutes": 137,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0405094",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTQyZGFjNWMtYWFiYy00OWU1LTlhMjAtYTBiNmU5NjJiNTAzXkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_SX600.jpg",
+    "director": "Florian Henckel von Donnersmarck",
+    "plot": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
+    "actors": "Ulrich Mühe, Martina Gedeck, Sebastian Koch",
+    "awards": "Won 1 Oscar. 80 wins & 38 nominations total"
+  },
+  {
+    "rank": 59,
+    "title": "Sunset Blvd.",
+    "year": 1950,
+    "runtimeMinutes": 110,
+    "genres": [
+      "Drama",
+      "Film-Noir"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0043014",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_SX600.jpg",
+    "director": "Billy Wilder",
+    "plot": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+    "actors": "William Holden, Gloria Swanson, Erich von Stroheim",
+    "awards": "Won 3 Oscars. 18 wins & 20 nominations total"
+  },
+  {
+    "rank": 60,
+    "title": "The Shining",
+    "year": 1980,
+    "runtimeMinutes": 146,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0081505",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX600.jpg",
+    "director": "Stanley Kubrick",
+    "plot": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+    "actors": "Jack Nicholson, Shelley Duvall, Danny Lloyd",
+    "awards": "4 wins & 8 nominations"
+  },
+  {
+    "rank": 61,
+    "title": "Paths of Glory",
+    "year": 1957,
+    "runtimeMinutes": 88,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0050825",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjViMmRkOTEtM2ViOS00ODg0LWJhYWEtNTBlOGQxNDczOGY3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX600.jpg",
+    "director": "Stanley Kubrick",
+    "plot": "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.",
+    "actors": "Kirk Douglas, Ralph Meeker, Adolphe Menjou",
+    "awards": "Nominated for 1 BAFTA Film Award7 wins & 4 nominations total"
+  },
+  {
+    "rank": 62,
+    "title": "The Great Dictator",
+    "year": 1940,
+    "runtimeMinutes": 125,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0032553",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Charles Chaplin",
+    "plot": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+    "actors": "Charles Chaplin, Paulette Goddard, Jack Oakie",
+    "awards": "Nominated for 5 Oscars. 6 wins & 6 nominations total"
+  },
+  {
+    "rank": 63,
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "runtimeMinutes": 149,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt4154756",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX600.jpg",
+    "director": "Anthony Russo, Joe Russo",
+    "plot": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+    "actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",
+    "awards": "Nominated for 1 Oscar. 46 wins & 79 nominations total"
+  },
+  {
+    "rank": 64,
+    "title": "Witness for the Prosecution",
+    "year": 1957,
+    "runtimeMinutes": 116,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0051201",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX600.jpg",
+    "director": "Billy Wilder",
+    "plot": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+    "actors": "Tyrone Power, Marlene Dietrich, Charles Laughton",
+    "awards": "Nominated for 6 Oscars. 4 wins & 16 nominations total"
+  },
+  {
+    "rank": 65,
+    "title": "Aliens",
+    "year": 1986,
+    "runtimeMinutes": 137,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0090605",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "James Cameron",
+    "plot": "Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators.",
+    "actors": "Sigourney Weaver, Michael Biehn, Carrie Henn",
+    "awards": "Won 2 Oscars. 20 wins & 23 nominations total"
+  },
+  {
+    "rank": 66,
+    "title": "American Beauty",
+    "year": 1999,
+    "runtimeMinutes": 122,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0169547",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX600.jpg",
+    "director": "Sam Mendes",
+    "plot": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+    "actors": "Kevin Spacey, Annette Bening, Thora Birch",
+    "awards": "Won 5 Oscars. 111 wins & 102 nominations total"
+  },
+  {
+    "rank": 67,
+    "title": "The Dark Knight Rises",
+    "year": 2012,
+    "runtimeMinutes": 164,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt1345836",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX600.jpg",
+    "director": "Christopher Nolan",
+    "plot": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+    "actors": "Christian Bale, Tom Hardy, Anne Hathaway",
+    "awards": "Nominated for 1 BAFTA Film Award39 wins & 103 nominations total"
+  },
+  {
+    "rank": 68,
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "year": 1964,
+    "runtimeMinutes": 95,
+    "genres": [
+      "Comedy",
+      "War"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0057012",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Stanley Kubrick",
+    "plot": "An insane American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.",
+    "actors": "Peter Sellers, George C. Scott, Sterling Hayden",
+    "awards": "Nominated for 4 Oscars. 14 wins & 11 nominations total"
+  },
+  {
+    "rank": 69,
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "runtimeMinutes": 117,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt4633694",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX600.jpg",
+    "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+    "plot": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+    "actors": "Shameik Moore, Jake Johnson, Hailee Steinfeld",
+    "awards": "Won 1 Oscar. 82 wins & 57 nominations total"
+  },
+  {
+    "rank": 70,
+    "title": "Joker",
+    "year": 2019,
+    "runtimeMinutes": 122,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt7286456",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX600.jpg",
+    "director": "Todd Phillips",
+    "plot": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+    "actors": "Joaquin Phoenix, Robert De Niro, Zazie Beetz",
+    "awards": "Won 2 Oscars. 122 wins & 239 nominations total"
+  },
+  {
+    "rank": 71,
+    "title": "Old Boy",
+    "year": 2003,
+    "runtimeMinutes": 120,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0364569",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_SX600.jpg",
+    "director": "Park Chan-wook",
+    "plot": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
+    "actors": "Choi Min-sik, Yoo Ji-Tae, Kang Hye-jeong",
+    "awards": "40 wins & 21 nominations"
+  },
+  {
+    "rank": 72,
+    "title": "Braveheart",
+    "year": 1995,
+    "runtimeMinutes": 178,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0112573",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Mel Gibson",
+    "plot": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+    "actors": "Mel Gibson, Sophie Marceau, Patrick McGoohan",
+    "awards": "Won 5 Oscars. 33 wins & 34 nominations total"
+  },
+  {
+    "rank": 73,
+    "title": "Toy Story",
+    "year": 1995,
+    "runtimeMinutes": 81,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0114709",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX600.jpg",
+    "director": "John Lasseter",
+    "plot": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+    "actors": "Tom Hanks, Tim Allen, Don Rickles",
+    "awards": "Won 1 Oscar. 27 wins & 23 nominations total"
+  },
+  {
+    "rank": 74,
+    "title": "Amadeus",
+    "year": 1984,
+    "runtimeMinutes": 160,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0086879",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX600.jpg",
+    "director": "Milos Forman",
+    "plot": "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was insanely jealous of Mozart's talent and claimed to have murdered him.",
+    "actors": "F. Murray Abraham, Tom Hulce, Elizabeth Berridge",
+    "awards": "Won 8 Oscars. 43 wins & 15 nominations total"
+  },
+  {
+    "rank": 75,
+    "title": "Coco",
+    "year": 2017,
+    "runtimeMinutes": 105,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt2380307",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SX600.jpg",
+    "director": "Lee Unkrich, Adrian Molina",
+    "plot": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+    "actors": "Anthony Gonzalez, Gael García Bernal, Benjamin Bratt",
+    "awards": "Won 2 Oscars. 109 wins & 40 nominations total"
+  },
+  {
+    "rank": 76,
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "runtimeMinutes": 148,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt10872600",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_SX600.jpg",
+    "director": "Jon Watts",
+    "plot": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+    "actors": "Tom Holland, Zendaya, Benedict Cumberbatch",
+    "awards": "Nominated for 1 Oscar. 15 wins & 45 nominations total"
+  },
+  {
+    "rank": 77,
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "runtimeMinutes": 153,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0361748",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX600.jpg",
+    "director": "Quentin Tarantino",
+    "plot": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+    "actors": "Brad Pitt, Diane Kruger, Eli Roth",
+    "awards": "Won 1 Oscar. 133 wins & 172 nominations total"
+  },
+  {
+    "rank": 78,
+    "title": "The Boat",
+    "year": 1981,
+    "runtimeMinutes": 149,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0082096",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGZhZDIzNWMtNjkxMS00MDQ1LThkMTYtZWQzYWU3MWMxMGU5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX600.jpg",
+    "director": "Wolfgang Petersen",
+    "plot": "The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.",
+    "actors": "Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann",
+    "awards": "Nominated for 6 Oscars. 13 wins & 11 nominations total"
+  },
+  {
+    "rank": 79,
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "runtimeMinutes": 181,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt4154796",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX600.jpg",
+    "director": "Anthony Russo, Joe Russo",
+    "plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo",
+    "awards": "Nominated for 1 Oscar. 70 wins & 132 nominations total"
+  },
+  {
+    "rank": 80,
+    "title": "Princess Mononoke",
+    "year": 1997,
+    "runtimeMinutes": 134,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0119698",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_SX600.jpg",
+    "director": "Hayao Miyazaki",
+    "plot": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+    "actors": "Yôji Matsuda, Yuriko Ishida, Yûko Tanaka",
+    "awards": "14 wins & 7 nominations"
+  },
+  {
+    "rank": 81,
+    "title": "Once Upon a Time in America",
+    "year": 1984,
+    "runtimeMinutes": 229,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0087843",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Sergio Leone",
+    "plot": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life.",
+    "actors": "Robert De Niro, James Woods, Elizabeth McGovern",
+    "awards": "Won 2 BAFTA Film 12 wins & 12 nominations total"
+  },
+  {
+    "rank": 82,
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "runtimeMinutes": 126,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0119217",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX600.jpg",
+    "director": "Gus Van Sant",
+    "plot": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+    "actors": "Robin Williams, Matt Damon, Ben Affleck",
+    "awards": "Won 2 Oscars. 24 wins & 61 nominations total"
+  },
+  {
+    "rank": 83,
+    "title": "Toy Story 3",
+    "year": 2010,
+    "runtimeMinutes": 103,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0435761",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SX600.jpg",
+    "director": "Lee Unkrich",
+    "plot": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+    "actors": "Tom Hanks, Tim Allen, Joan Cusack",
+    "awards": "Won 2 Oscars. 61 wins & 96 nominations total"
+  },
+  {
+    "rank": 84,
+    "title": "Requiem for a Dream",
+    "year": 2000,
+    "runtimeMinutes": 102,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0180093",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Darren Aronofsky",
+    "plot": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+    "actors": "Ellen Burstyn, Jared Leto, Jennifer Connelly",
+    "awards": "Nominated for 1 Oscar. 37 wins & 70 nominations total"
+  },
+  {
+    "rank": 85,
+    "title": "3 Idiots",
+    "year": 2009,
+    "runtimeMinutes": 170,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "imdbRating": 8.5,
+    "imdbId": "tt1187043",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Rajkumar Hirani",
+    "plot": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+    "actors": "Aamir Khan, Madhavan, Mona Singh",
+    "awards": "63 wins & 27 nominations"
+  },
+  {
+    "rank": 86,
+    "title": "Your Name.",
+    "year": 2016,
+    "runtimeMinutes": 106,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt5311514",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_SX600.jpg",
+    "director": "Makoto Shinkai",
+    "plot": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+    "actors": "Ryûnosuke Kamiki, Mone Kamishiraishi, Ryô Narita",
+    "awards": "16 wins & 26 nominations"
+  },
+  {
+    "rank": 87,
+    "title": "Singin' in the Rain",
+    "year": 1952,
+    "runtimeMinutes": 103,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0045152",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX600.jpg",
+    "director": "Stanley Donen, Gene Kelly",
+    "plot": "A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.",
+    "actors": "Gene Kelly, Donald O'Connor, Debbie Reynolds",
+    "awards": "Nominated for 2 Oscars. 7 wins & 9 nominations total"
+  },
+  {
+    "rank": 88,
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "year": 1983,
+    "runtimeMinutes": 131,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0086190",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX600.jpg",
+    "director": "Richard Marquand",
+    "plot": "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's tr",
+    "actors": "Mark Hamill, Harrison Ford, Carrie Fisher",
+    "awards": "Won 1 Oscar. 23 wins & 20 nominations total"
+  },
+  {
+    "rank": 89,
+    "title": "Reservoir Dogs",
+    "year": 1992,
+    "runtimeMinutes": 99,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0105236",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX600.jpg",
+    "director": "Quentin Tarantino",
+    "plot": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+    "actors": "Harvey Keitel, Tim Roth, Michael Madsen",
+    "awards": "12 wins & 23 nominations"
+  },
+  {
+    "rank": 90,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "runtimeMinutes": 108,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0338013",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SX600.jpg",
+    "director": "Michel Gondry",
+    "plot": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+    "actors": "Jim Carrey, Kate Winslet, Tom Wilkinson",
+    "awards": "Won 1 Oscar. 73 wins & 111 nominations total"
+  },
+  {
+    "rank": 91,
+    "title": "2001: A Space Odyssey",
+    "year": 1968,
+    "runtimeMinutes": 149,
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0062622",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Stanley Kubrick",
+    "plot": "The Monoliths push humanity to reach for the stars; after their discovery in Africa generations ago, the mysterious objects lead mankind on an awesome journey to Jupiter, with the help of H.A.L. 9000: the world's greatest supercomput",
+    "actors": "Keir Dullea, Gary Lockwood, William Sylvester",
+    "awards": "Won 1 Oscar. 16 wins & 12 nominations total"
+  },
+  {
+    "rank": 92,
+    "title": "High and Low",
+    "year": 1963,
+    "runtimeMinutes": 143,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0057565",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTI4NTNhZDMtMWNkZi00MTRmLWJmZDQtMmJkMGVmZTEzODlhXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX600.jpg",
+    "director": "Akira Kurosawa",
+    "plot": "An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur's son is kidnapped by mistake and held for ransom.",
+    "actors": "Toshirô Mifune, Yutaka Sada, Tatsuya Nakadai",
+    "awards": "3 wins & 3 nominations"
+  },
+  {
+    "rank": 93,
+    "title": "Citizen Kane",
+    "year": 1941,
+    "runtimeMinutes": 119,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0033467",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Orson Welles",
+    "plot": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance; 'Rosebud'.",
+    "actors": "Orson Welles, Joseph Cotten, Dorothy Comingore",
+    "awards": "Won 1 Oscar. 11 wins & 13 nominations total"
+  },
+  {
+    "rank": 94,
+    "title": "Lawrence of Arabia",
+    "year": 1962,
+    "runtimeMinutes": 218,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0056172",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX600.jpg",
+    "director": "David Lean",
+    "plot": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+    "actors": "Peter O'Toole, Alec Guinness, Anthony Quinn",
+    "awards": "Won 7 Oscars. 31 wins & 15 nominations total"
+  },
+  {
+    "rank": 95,
+    "title": "Capernaum",
+    "year": 2018,
+    "runtimeMinutes": 126,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt8267604",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmExNzU2ZWMtYzUwYi00YmM2LTkxZTQtNmVhNjY0NTMyMWI2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX600.jpg",
+    "director": "Nadine Labaki",
+    "plot": "While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.",
+    "actors": "Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole",
+    "awards": "Nominated for 1 Oscar. 35 wins & 53 nominations total"
+  },
+  {
+    "rank": 96,
+    "title": "M",
+    "year": 1931,
+    "runtimeMinutes": 99,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0022100",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_SX600.jpg",
+    "director": "Fritz Lang",
+    "plot": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+    "actors": "Peter Lorre, Ellen Widmann, Inge Landgut",
+    "awards": "2 wins"
+  },
+  {
+    "rank": 97,
+    "title": "North by Northwest",
+    "year": 1959,
+    "runtimeMinutes": 136,
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Thriller"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0053125",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX600.jpg",
+    "director": "Alfred Hitchcock",
+    "plot": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.",
+    "actors": "Cary Grant, Eva Marie Saint, James Mason",
+    "awards": "Nominated for 3 Oscars. 8 wins & 10 nominations total"
+  },
+  {
+    "rank": 98,
+    "title": "The Hunt",
+    "year": 2012,
+    "runtimeMinutes": 115,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt2106476",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_SX600.jpg",
+    "director": "Thomas Vinterberg",
+    "plot": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent littl",
+    "actors": "Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp",
+    "awards": "Nominated for 1 Oscar. 38 wins & 73 nominations total"
+  },
+  {
+    "rank": 99,
+    "title": "Vertigo",
+    "year": 1958,
+    "runtimeMinutes": 128,
+    "genres": [
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0052357",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX600.jpg",
+    "director": "Alfred Hitchcock",
+    "plot": "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.",
+    "actors": "James Stewart, Kim Novak, Barbara Bel Geddes",
+    "awards": "Nominated for 2 Oscars. 8 wins & 7 nominations total"
+  },
+  {
+    "rank": 100,
+    "title": "Amélie",
+    "year": 2001,
+    "runtimeMinutes": 122,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0211915",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX600.jpg",
+    "director": "Jean-Pierre Jeunet",
+    "plot": "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.",
+    "actors": "Audrey Tautou, Mathieu Kassovitz, Rufus",
+    "awards": "Nominated for 5 Oscars. 59 wins & 74 nominations total"
+  },
+  {
+    "rank": 101,
+    "title": "A Clockwork Orange",
+    "year": 1971,
+    "runtimeMinutes": 136,
+    "genres": [
+      "Crime",
+      "Sci-Fi"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0066921",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SX600.jpg",
+    "director": "Stanley Kubrick",
+    "plot": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+    "actors": "Malcolm McDowell, Patrick Magee, Michael Bates",
+    "awards": "Nominated for 4 Oscars. 12 wins & 24 nominations total"
+  },
+  {
+    "rank": 102,
+    "title": "Full Metal Jacket",
+    "year": 1987,
+    "runtimeMinutes": 116,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0093058",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Stanley Kubrick",
+    "plot": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+    "actors": "Matthew Modine, R. Lee Ermey, Vincent D'Onofrio",
+    "awards": "Nominated for 1 Oscar. 8 wins & 15 nominations total"
+  },
+  {
+    "rank": 103,
+    "title": "Scarface",
+    "year": 1983,
+    "runtimeMinutes": 170,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0086250",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Brian De Palma",
+    "plot": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+    "actors": "Al Pacino, Michelle Pfeiffer, Steven Bauer",
+    "awards": "8 nominations"
+  },
+  {
+    "rank": 104,
+    "title": "Come and See",
+    "year": 1985,
+    "runtimeMinutes": 142,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0091251",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Elem Klimov",
+    "plot": "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
+    "actors": "Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius",
+    "awards": "3 wins"
+  },
+  {
+    "rank": 105,
+    "title": "Double Indemnity",
+    "year": 1944,
+    "runtimeMinutes": 107,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0036775",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX600.jpg",
+    "director": "Billy Wilder",
+    "plot": "A Los Angeles insurance representative lets an alluring housewife seduce him into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, an insurance investigator.",
+    "actors": "Fred MacMurray, Barbara Stanwyck, Edward G. Robinson",
+    "awards": "Nominated for 7 Oscars. 2 wins & 9 nominations total"
+  },
+  {
+    "rank": 106,
+    "title": "The Apartment",
+    "year": 1960,
+    "runtimeMinutes": 125,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0053604",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX600.jpg",
+    "director": "Billy Wilder",
+    "plot": "A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+    "actors": "Jack Lemmon, Shirley MacLaine, Fred MacMurray",
+    "awards": "Won 5 Oscars. 24 wins & 8 nominations total"
+  },
+  {
+    "rank": 107,
+    "title": "Taxi Driver",
+    "year": 1976,
+    "runtimeMinutes": 114,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0075314",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Martin Scorsese",
+    "plot": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+    "actors": "Robert De Niro, Jodie Foster, Cybill Shepherd",
+    "awards": "Nominated for 4 Oscars. 22 wins & 20 nominations total"
+  },
+  {
+    "rank": 108,
+    "title": "To Kill a Mockingbird",
+    "year": 1962,
+    "runtimeMinutes": 129,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0056592",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Robert Mulligan",
+    "plot": "Atticus Finch, a widowed lawyer in Depression-era Alabama, defends a black man against an undeserved rape charge, and his children against prejudice.",
+    "actors": "Gregory Peck, John Megna, Frank Overton",
+    "awards": "Won 3 Oscars. 14 wins & 16 nominations total"
+  },
+  {
+    "rank": 109,
+    "title": "The Sting",
+    "year": 1973,
+    "runtimeMinutes": 129,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0070735",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX600.jpg",
+    "director": "George Roy Hill",
+    "plot": "Two grifters team up to pull off the ultimate con.",
+    "actors": "Paul Newman, Robert Redford, Robert Shaw",
+    "awards": "Won 7 Oscars. 18 wins & 6 nominations total"
+  },
+  {
+    "rank": 110,
+    "title": "Up",
+    "year": 2009,
+    "runtimeMinutes": 96,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt1049413",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_SX600.jpg",
+    "director": "Pete Docter, Bob Peterson",
+    "plot": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+    "actors": "Edward Asner, Jordan Nagai, John Ratzenberger",
+    "awards": "Won 2 Oscars. 79 wins & 87 nominations total"
+  },
+  {
+    "rank": 111,
+    "title": "L.A. Confidential",
+    "year": 1997,
+    "runtimeMinutes": 138,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0119488",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Curtis Hanson",
+    "plot": "As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+    "actors": "Kevin Spacey, Russell Crowe, Guy Pearce",
+    "awards": "Won 2 Oscars. 92 wins & 86 nominations total"
+  },
+  {
+    "rank": 112,
+    "title": "Hamilton",
+    "year": 2020,
+    "runtimeMinutes": 160,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt8503618",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_SX600.jpg",
+    "director": "Thomas Kail",
+    "plot": "The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.",
+    "actors": "Lin-Manuel Miranda, Phillipa Soo, Leslie Odom Jr.",
+    "awards": "Won 1 Primetime Emmy. 18 wins & 46 nominations total"
+  },
+  {
+    "rank": 113,
+    "title": "Heat",
+    "year": 1995,
+    "runtimeMinutes": 170,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0113277",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGMwNzUwNjYtZWM5NS00YzMyLWI4NjAtNjM0ZDBiMzE1YWExXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX600.jpg",
+    "director": "Michael Mann",
+    "plot": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a clue at their latest heist.",
+    "actors": "Al Pacino, Robert De Niro, Val Kilmer",
+    "awards": "14 nominations"
+  },
+  {
+    "rank": 114,
+    "title": "Ikiru",
+    "year": 1952,
+    "runtimeMinutes": 143,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0044741",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTdkN2E5OTYtN2FiMi00YWUwLWEzMGMtZTMzNjY0NjgzYzFiXkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_SX600.jpg",
+    "director": "Akira Kurosawa",
+    "plot": "A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer.",
+    "actors": "Takashi Shimura, Nobuo Kaneko, Shin'ichi Himori",
+    "awards": "Nominated for 1 BAFTA Film Award5 wins & 2 nominations total"
+  },
+  {
+    "rank": 115,
+    "title": "Snatch",
+    "year": 2000,
+    "runtimeMinutes": 102,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0208092",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX600.jpg",
+    "director": "Guy Ritchie",
+    "plot": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+    "actors": "Jason Statham, Brad Pitt, Stephen Graham",
+    "awards": "4 wins & 7 nominations"
+  },
+  {
+    "rank": 116,
+    "title": "Die Hard",
+    "year": 1988,
+    "runtimeMinutes": 132,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0095016",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "John McTiernan",
+    "plot": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+    "actors": "Bruce Willis, Alan Rickman, Bonnie Bedelia",
+    "awards": "Nominated for 4 Oscars. 8 wins & 6 nominations total"
+  },
+  {
+    "rank": 117,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1989,
+    "runtimeMinutes": 127,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0097576",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX600.jpg",
+    "director": "Steven Spielberg",
+    "plot": "In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry \"Indiana\" Jones, Jr. finds himself up against Adolf Hitler's Nazis again to stop them from obtaining its powers.",
+    "actors": "Harrison Ford, Sean Connery, Alison Doody",
+    "awards": "Won 1 Oscar. 8 wins & 22 nominations total"
+  },
+  {
+    "rank": 118,
+    "title": "A Separation",
+    "year": 2011,
+    "runtimeMinutes": 123,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt1832382",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX600.jpg",
+    "director": "Asghar Farhadi",
+    "plot": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+    "actors": "Payman Maadi, Leila Hatami, Sareh Bayat",
+    "awards": "Won 1 Oscar. 89 wins & 50 nominations total"
+  },
+  {
+    "rank": 119,
+    "title": "Metropolis",
+    "year": 1927,
+    "runtimeMinutes": 153,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0017136",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX600.jpg",
+    "director": "Fritz Lang",
+    "plot": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.",
+    "actors": "Brigitte Helm, Alfred Abel, Gustav Fröhlich",
+    "awards": "6 wins & 7 nominations"
+  },
+  {
+    "rank": 120,
+    "title": "Bicycle Thieves",
+    "year": 1948,
+    "runtimeMinutes": 89,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0040522",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX600.jpg",
+    "director": "Vittorio De Sica",
+    "plot": "In post-war Italy, a working-class man's bicycle is stolen, endangering his efforts to find work. He and his son set out to find it.",
+    "actors": "Lamberto Maggiorani, Enzo Staiola, Lianella Carell",
+    "awards": "Won 1 Oscar. 20 wins & 3 nominations total"
+  },
+  {
+    "rank": 121,
+    "title": "Incendies",
+    "year": 2010,
+    "runtimeMinutes": 131,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "War"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt1255953",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX600.jpg",
+    "director": "Denis Villeneuve",
+    "plot": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+    "actors": "Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette",
+    "awards": "Nominated for 1 Oscar. 40 wins & 18 nominations total"
+  },
+  {
+    "rank": 122,
+    "title": "1917",
+    "year": 2019,
+    "runtimeMinutes": 119,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt8579674",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_SX600.jpg",
+    "director": "Sam Mendes",
+    "plot": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+    "actors": "Dean-Charles Chapman, George MacKay, Daniel Mays",
+    "awards": "Won 3 Oscars. 134 wins & 206 nominations total"
+  },
+  {
+    "rank": 123,
+    "title": "Like Stars on Earth",
+    "year": 2007,
+    "runtimeMinutes": 165,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0986264",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX600.jpg",
+    "director": "Aamir Khan, Amole Gupte",
+    "plot": "An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+    "actors": "Darsheel Safary, Aamir Khan, Tisca Chopra",
+    "awards": "23 wins & 14 nominations"
+  },
+  {
+    "rank": 124,
+    "title": "Batman Begins",
+    "year": 2005,
+    "runtimeMinutes": 140,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0372784",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX600.jpg",
+    "director": "Christopher Nolan",
+    "plot": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
+    "actors": "Christian Bale, Michael Caine, Ken Watanabe",
+    "awards": "Nominated for 1 Oscar. 13 wins & 79 nominations total"
+  },
+  {
+    "rank": 125,
+    "title": "For a Few Dollars More",
+    "year": 1965,
+    "runtimeMinutes": 132,
+    "genres": [
+      "Western"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0059578",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWM1NmYyM2ItMTFhNy00NDU0LThlYWUtYjQyYTJmOTY0ZmM0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Sergio Leone",
+    "plot": "Two bounty hunters with the same intentions team up to track down an escaped Mexican outlaw.",
+    "actors": "Clint Eastwood, Lee Van Cleef, Gian Maria Volontè",
+    "awards": "2 nominations"
+  },
+  {
+    "rank": 126,
+    "title": "Dangal",
+    "year": 2016,
+    "runtimeMinutes": 161,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt5074352",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_SX600.jpg",
+    "director": "Nitesh Tiwari",
+    "plot": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+    "actors": "Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh",
+    "awards": "29 wins & 16 nominations"
+  },
+  {
+    "rank": 127,
+    "title": "Downfall",
+    "year": 2004,
+    "runtimeMinutes": 156,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0363163",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_SX600.jpg",
+    "director": "Oliver Hirschbiegel",
+    "plot": "Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.",
+    "actors": "Bruno Ganz, Alexandra Maria Lara, Ulrich Matthes",
+    "awards": "Nominated for 1 Oscar. 22 wins & 34 nominations total"
+  },
+  {
+    "rank": 128,
+    "title": "The Kid",
+    "year": 1921,
+    "runtimeMinutes": 68,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0012349",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX600.jpg",
+    "director": "Charles Chaplin",
+    "plot": "The Tramp cares for an abandoned child, but events put that relationship in jeopardy.",
+    "actors": "Charles Chaplin, Edna Purviance, Jackie Coogan",
+    "awards": "2 wins"
+  },
+  {
+    "rank": 129,
+    "title": "Some Like It Hot",
+    "year": 1959,
+    "runtimeMinutes": 121,
+    "genres": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0053291",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Billy Wilder",
+    "plot": "After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+    "actors": "Marilyn Monroe, Tony Curtis, Jack Lemmon",
+    "awards": "Won 1 Oscar. 15 wins & 15 nominations total"
+  },
+  {
+    "rank": 130,
+    "title": "The Batman",
+    "year": 2022,
+    "runtimeMinutes": 176,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt1877830",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_SX600.jpg",
+    "director": "Matt Reeves",
+    "plot": "When the Riddler, a sadistic serial killer, begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+    "actors": "Robert Pattinson, Zoë Kravitz, Jeffrey Wright",
+    "awards": "3 nominations"
+  },
+  {
+    "rank": 131,
+    "title": "The Father",
+    "year": 2020,
+    "runtimeMinutes": 97,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt10272386",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX600.jpg",
+    "director": "Florian Zeller",
+    "plot": "A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
+    "actors": "Anthony Hopkins, Olivia Colman, Mark Gatiss",
+    "awards": "Won 2 Oscars. 34 wins & 157 nominations total"
+  },
+  {
+    "rank": 132,
+    "title": "All About Eve",
+    "year": 1950,
+    "runtimeMinutes": 138,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0042192",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_SX600.jpg",
+    "director": "Joseph L. Mankiewicz",
+    "plot": "A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+    "actors": "Bette Davis, Anne Baxter, George Sanders",
+    "awards": "Won 6 Oscars. 26 wins & 20 nominations total"
+  },
+  {
+    "rank": 133,
+    "title": "The Wolf of Wall Street",
+    "year": 2013,
+    "runtimeMinutes": 180,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0993846",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX600.jpg",
+    "director": "Martin Scorsese",
+    "plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+    "actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie",
+    "awards": "Nominated for 5 Oscars. 37 wins & 179 nominations total"
+  },
+  {
+    "rank": 134,
+    "title": "Green Book",
+    "year": 2018,
+    "runtimeMinutes": 130,
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt6966692",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_SX600.jpg",
+    "director": "Peter Farrelly",
+    "plot": "A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.",
+    "actors": "Viggo Mortensen, Mahershala Ali, Linda Cardellini",
+    "awards": "Won 3 Oscars. 59 wins & 124 nominations total"
+  },
+  {
+    "rank": 135,
+    "title": "Unforgiven",
+    "year": 1992,
+    "runtimeMinutes": 130,
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0105695",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Clint Eastwood",
+    "plot": "Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The \"Schofield Kid.\"",
+    "actors": "Clint Eastwood, Gene Hackman, Morgan Freeman",
+    "awards": "Won 4 Oscars. 50 wins & 47 nominations total"
+  },
+  {
+    "rank": 136,
+    "title": "Casino",
+    "year": 1995,
+    "runtimeMinutes": 178,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0112641",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX600.jpg",
+    "director": "Martin Scorsese",
+    "plot": "A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive compete against each other over a gambling empire, and over a fast-living and fast-loving socialite.",
+    "actors": "Robert De Niro, Sharon Stone, Joe Pesci",
+    "awards": "Nominated for 1 Oscar. 4 wins & 11 nominations total"
+  },
+  {
+    "rank": 137,
+    "title": "Judgment at Nuremberg",
+    "year": 1961,
+    "runtimeMinutes": 179,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0055031",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_SX600.jpg",
+    "director": "Stanley Kramer",
+    "plot": "In 1948, an American court in occupied Germany tries four Nazis judged for war crimes.",
+    "actors": "Spencer Tracy, Burt Lancaster, Richard Widmark",
+    "awards": "Won 2 Oscars. 16 wins & 25 nominations total"
+  },
+  {
+    "rank": 138,
+    "title": "Pan's Labyrinth",
+    "year": 2006,
+    "runtimeMinutes": 118,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "War"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0457430",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX600.jpg",
+    "director": "Guillermo del Toro",
+    "plot": "In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+    "actors": "Ivana Baquero, Ariadna Gil, Sergi López",
+    "awards": "Won 3 Oscars. 110 wins & 115 nominations total"
+  },
+  {
+    "rank": 139,
+    "title": "Ran",
+    "year": 1985,
+    "runtimeMinutes": 162,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0089881",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTEyNjg0MDM4OF5BMl5BanBnXkFtZTgwODI0NjUxODE@._V1_SX600.jpg",
+    "director": "Akira Kurosawa",
+    "plot": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
+    "actors": "Tatsuya Nakadai, Akira Terao, Jinpachi Nezu",
+    "awards": "Won 1 Oscar. 30 wins & 23 nominations total"
+  },
+  {
+    "rank": 140,
+    "title": "A Beautiful Mind",
+    "year": 2001,
+    "runtimeMinutes": 135,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0268978",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX600.jpg",
+    "director": "Ron Howard",
+    "plot": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+    "actors": "Russell Crowe, Ed Harris, Jennifer Connelly",
+    "awards": "Won 4 Oscars. 37 wins & 69 nominations total"
+  },
+  {
+    "rank": 141,
+    "title": "The Sixth Sense",
+    "year": 1999,
+    "runtimeMinutes": 107,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0167404",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX600.jpg",
+    "director": "M. Night Shyamalan",
+    "plot": "A frightened, withdrawn Philadelphia boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+    "actors": "Bruce Willis, Haley Joel Osment, Toni Collette",
+    "awards": "Nominated for 6 Oscars. 37 wins & 56 nominations total"
+  },
+  {
+    "rank": 142,
+    "title": "Monty Python and the Holy Grail",
+    "year": 1975,
+    "runtimeMinutes": 91,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0071853",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Terry Gilliam, Terry Jones",
+    "plot": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+    "actors": "Graham Chapman, John Cleese, Eric Idle",
+    "awards": "3 wins & 3 nominations"
+  },
+  {
+    "rank": 143,
+    "title": "There Will Be Blood",
+    "year": 2007,
+    "runtimeMinutes": 158,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0469494",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_SX600.jpg",
+    "director": "Paul Thomas Anderson",
+    "plot": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+    "actors": "Daniel Day-Lewis, Paul Dano, Ciarán Hinds",
+    "awards": "Won 2 Oscars. 116 wins & 137 nominations total"
+  },
+  {
+    "rank": 144,
+    "title": "The Truman Show",
+    "year": 1998,
+    "runtimeMinutes": 103,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0120382",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX600.jpg",
+    "director": "Peter Weir",
+    "plot": "An insurance salesman discovers his whole life is actually a reality TV show.",
+    "actors": "Jim Carrey, Ed Harris, Laura Linney",
+    "awards": "Nominated for 3 Oscars. 40 wins & 69 nominations total"
+  },
+  {
+    "rank": 145,
+    "title": "Yojimbo",
+    "year": 1961,
+    "runtimeMinutes": 110,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0055630",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX600.jpg",
+    "director": "Akira Kurosawa",
+    "plot": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+    "actors": "Toshirô Mifune, Eijirô Tôno, Tatsuya Nakadai",
+    "awards": "Nominated for 1 Oscar. 4 wins & 2 nominations total"
+  },
+  {
+    "rank": 146,
+    "title": "The Treasure of the Sierra Madre",
+    "year": 1948,
+    "runtimeMinutes": 126,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0040897",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX600.jpg",
+    "director": "John Huston",
+    "plot": "Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+    "actors": "Humphrey Bogart, Walter Huston, Tim Holt",
+    "awards": "Won 3 Oscars. 16 wins & 8 nominations total"
+  },
+  {
+    "rank": 147,
+    "title": "Shutter Island",
+    "year": 2010,
+    "runtimeMinutes": 138,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt1130884",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX600.jpg",
+    "director": "Martin Scorsese",
+    "plot": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
+    "actors": "Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo",
+    "awards": "11 wins & 66 nominations"
+  },
+  {
+    "rank": 148,
+    "title": "The Great Escape",
+    "year": 1963,
+    "runtimeMinutes": 172,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0057115",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX600.jpg",
+    "director": "John Sturges",
+    "plot": "Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.",
+    "actors": "Steve McQueen, James Garner, Richard Attenborough",
+    "awards": "Nominated for 1 Oscar. 3 wins & 11 nominations total"
+  },
+  {
+    "rank": 149,
+    "title": "Rashomon",
+    "year": 1950,
+    "runtimeMinutes": 88,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0042876",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_SX600.jpg",
+    "director": "Akira Kurosawa",
+    "plot": "The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+    "actors": "Toshirô Mifune, Machiko Kyô, Masayuki Mori",
+    "awards": "Won 1 Oscar. 9 wins & 5 nominations total"
+  },
+  {
+    "rank": 150,
+    "title": "Jurassic Park",
+    "year": 1993,
+    "runtimeMinutes": 127,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0107290",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX600.jpg",
+    "director": "Steven Spielberg",
+    "plot": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+    "actors": "Sam Neill, Laura Dern, Jeff Goldblum",
+    "awards": "Won 3 Oscars. 44 wins & 27 nominations total"
+  },
+  {
+    "rank": 151,
+    "title": "Kill Bill: Vol. 1",
+    "year": 2003,
+    "runtimeMinutes": 111,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0266697",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Quentin Tarantino",
+    "plot": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+    "actors": "Uma Thurman, David Carradine, Daryl Hannah",
+    "awards": "Nominated for 5 BAFTA Film 29 wins & 104 nominations total"
+  },
+  {
+    "rank": 152,
+    "title": "No Country for Old Men",
+    "year": 2007,
+    "runtimeMinutes": 122,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0477348",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_SX600.jpg",
+    "director": "Ethan Coen, Joel Coen",
+    "plot": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+    "actors": "Tommy Lee Jones, Javier Bardem, Josh Brolin",
+    "awards": "Won 4 Oscars. 163 wins & 140 nominations total"
+  },
+  {
+    "rank": 153,
+    "title": "Finding Nemo",
+    "year": 2003,
+    "runtimeMinutes": 100,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0266543",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Andrew Stanton, Lee Unkrich",
+    "plot": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+    "actors": "Albert Brooks, Ellen DeGeneres, Alexander Gould",
+    "awards": "Won 1 Oscar. 48 wins & 63 nominations total"
+  },
+  {
+    "rank": 154,
+    "title": "Raging Bull",
+    "year": 1980,
+    "runtimeMinutes": 129,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0081398",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SX600.jpg",
+    "director": "Martin Scorsese",
+    "plot": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+    "actors": "Robert De Niro, Cathy Moriarty, Joe Pesci",
+    "awards": "Won 2 Oscars. 24 wins & 28 nominations total"
+  },
+  {
+    "rank": 155,
+    "title": "V for Vendetta",
+    "year": 2005,
+    "runtimeMinutes": 132,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0434409",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_SX600.jpg",
+    "director": "James McTeigue",
+    "plot": "In a future British tyranny, a shadowy freedom fighter, known only by the alias of \"V,\" plots to overthrow it with the help of a young woman.",
+    "actors": "Hugo Weaving, Natalie Portman, Rupert Graves",
+    "awards": "7 wins & 29 nominations"
+  },
+  {
+    "rank": 156,
+    "title": "The Elephant Man",
+    "year": 1980,
+    "runtimeMinutes": 124,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0080678",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX600.jpg",
+    "director": "David Lynch",
+    "plot": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication.",
+    "actors": "Anthony Hopkins, John Hurt, Anne Bancroft",
+    "awards": "Nominated for 8 Oscars. 10 wins & 22 nominations total"
+  },
+  {
+    "rank": 157,
+    "title": "Gone with the Wind",
+    "year": 1939,
+    "runtimeMinutes": 238,
+    "genres": [
+      "Drama",
+      "History",
+      "Romance"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0031381",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Victor Fleming, George Cukor, Sam Wood",
+    "plot": "The manipulative daughter of a Georgia plantation owner conducts a turbulent romance with a roguish profiteer during the American Civil War and Reconstruction periods.",
+    "actors": "Clark Gable, Vivien Leigh, Thomas Mitchell",
+    "awards": "Won 10 Oscars. 21 wins & 12 nominations total"
+  },
+  {
+    "rank": 158,
+    "title": "Chinatown",
+    "year": 1974,
+    "runtimeMinutes": 130,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0071315",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGMwYmY5ZmEtMzY1Yi00OWJiLTk1Y2MtMzI2MjBhYmZkNTQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Roman Polanski",
+    "plot": "A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.",
+    "actors": "Jack Nicholson, Faye Dunaway, John Huston",
+    "awards": "Won 1 Oscar. 21 wins & 24 nominations total"
+  },
+  {
+    "rank": 159,
+    "title": "Inside Out",
+    "year": 2015,
+    "runtimeMinutes": 95,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt2096673",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_SX600.jpg",
+    "director": "Pete Docter, Ronnie Del Carmen",
+    "plot": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+    "actors": "Amy Poehler, Bill Hader, Lewis Black",
+    "awards": "Won 1 Oscar. 101 wins & 116 nominations total"
+  },
+  {
+    "rank": 160,
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "year": 1998,
+    "runtimeMinutes": 107,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0120735",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX600.jpg",
+    "director": "Guy Ritchie",
+    "plot": "Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster, Hatchet Harry. Eddy loses, after which Harry gives him a week to pay back 500,000 pounds.",
+    "actors": "Jason Flemyng, Dexter Fletcher, Nick Moran",
+    "awards": "Won 1 BAFTA Film Award13 wins & 9 nominations total"
+  },
+  {
+    "rank": 161,
+    "title": "The Thing",
+    "year": 1982,
+    "runtimeMinutes": 109,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0084787",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX600.jpg",
+    "director": "John Carpenter",
+    "plot": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+    "actors": "Kurt Russell, Wilford Brimley, Keith David",
+    "awards": "3 nominations"
+  },
+  {
+    "rank": 162,
+    "title": "Dial M for Murder",
+    "year": 1954,
+    "runtimeMinutes": 105,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0046912",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX600.jpg",
+    "director": "Alfred Hitchcock",
+    "plot": "A former tennis star arranges the murder of his adulterous wife.",
+    "actors": "Ray Milland, Grace Kelly, Robert Cummings",
+    "awards": "Nominated for 1 BAFTA Film Award5 wins & 3 nominations total"
+  },
+  {
+    "rank": 163,
+    "title": "The Secret in Their Eyes",
+    "year": 2009,
+    "runtimeMinutes": 129,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt1305806",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX600.jpg",
+    "director": "Juan José Campanella",
+    "plot": "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.",
+    "actors": "Ricardo Darín, Soledad Villamil, Pablo Rago",
+    "awards": "Won 1 Oscar. 53 wins & 43 nominations total"
+  },
+  {
+    "rank": 164,
+    "title": "Howl's Moving Castle",
+    "year": 2004,
+    "runtimeMinutes": 119,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0347149",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX600.jpg",
+    "director": "Hayao Miyazaki",
+    "plot": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+    "actors": "Chieko Baishô, Takuya Kimura, Tatsuya Gashûin",
+    "awards": "Nominated for 1 Oscar. 14 wins & 20 nominations total"
+  },
+  {
+    "rank": 165,
+    "title": "The Bridge on the River Kwai",
+    "year": 1957,
+    "runtimeMinutes": 161,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0050212",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SX600.jpg",
+    "director": "David Lean",
+    "plot": "British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are planning a daring commando raid through the jungle to destroy it.",
+    "actors": "William Holden, Alec Guinness, Jack Hawkins",
+    "awards": "Won 7 Oscars. 30 wins & 8 nominations total"
+  },
+  {
+    "rank": 166,
+    "title": "Trainspotting",
+    "year": 1996,
+    "runtimeMinutes": 93,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0117951",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Danny Boyle",
+    "plot": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",
+    "actors": "Ewan McGregor, Ewen Bremner, Jonny Lee Miller",
+    "awards": "Nominated for 1 Oscar. 23 wins & 35 nominations total"
+  },
+  {
+    "rank": 167,
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "year": 2017,
+    "runtimeMinutes": 115,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt5027774",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_SX600.jpg",
+    "director": "Martin McDonagh",
+    "plot": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+    "actors": "Frances McDormand, Woody Harrelson, Sam Rockwell",
+    "awards": "Won 2 Oscars. 133 wins & 235 nominations total"
+  },
+  {
+    "rank": 168,
+    "title": "Warrior",
+    "year": 2011,
+    "runtimeMinutes": 140,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt1291584",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_SX600.jpg",
+    "director": "Gavin O'Connor",
+    "plot": "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.",
+    "actors": "Tom Hardy, Nick Nolte, Joel Edgerton",
+    "awards": "Nominated for 1 Oscar. 5 wins & 22 nominations total"
+  },
+  {
+    "rank": 169,
+    "title": "Gran Torino",
+    "year": 2008,
+    "runtimeMinutes": 116,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt1205489",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_SX600.jpg",
+    "director": "Clint Eastwood",
+    "plot": "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",
+    "actors": "Clint Eastwood, Bee Vang, Christopher Carley",
+    "awards": "21 wins & 22 nominations"
+  },
+  {
+    "rank": 170,
+    "title": "Fargo",
+    "year": 1996,
+    "runtimeMinutes": 98,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0116282",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Joel Coen, Ethan Coen",
+    "plot": "Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+    "actors": "William H. Macy, Frances McDormand, Steve Buscemi",
+    "awards": "Won 2 Oscars. 83 wins & 58 nominations total"
+  },
+  {
+    "rank": 171,
+    "title": "My Neighbor Totoro",
+    "year": 1988,
+    "runtimeMinutes": 86,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0096283",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX600.jpg",
+    "director": "Hayao Miyazaki",
+    "plot": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+    "actors": "Hitoshi Takagi, Noriko Hidaka, Chika Sakamoto",
+    "awards": "5 wins & 2 nominations"
+  },
+  {
+    "rank": 172,
+    "title": "Prisoners",
+    "year": 2013,
+    "runtimeMinutes": 153,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt1392214",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_SX600.jpg",
+    "director": "Denis Villeneuve",
+    "plot": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+    "actors": "Hugh Jackman, Jake Gyllenhaal, Viola Davis",
+    "awards": "Nominated for 1 Oscar. 10 wins & 38 nominations total"
+  },
+  {
+    "rank": 173,
+    "title": "Million Dollar Baby",
+    "year": 2004,
+    "runtimeMinutes": 132,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0405159",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_SX600.jpg",
+    "director": "Clint Eastwood",
+    "plot": "A determined woman works with a hardened boxing trainer to become a professional.",
+    "actors": "Hilary Swank, Clint Eastwood, Morgan Freeman",
+    "awards": "Won 4 Oscars. 67 wins & 86 nominations total"
+  },
+  {
+    "rank": 174,
+    "title": "Blade Runner",
+    "year": 1982,
+    "runtimeMinutes": 117,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0083658",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Ridley Scott",
+    "plot": "A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.",
+    "actors": "Harrison Ford, Rutger Hauer, Sean Young",
+    "awards": "Nominated for 2 Oscars. 12 wins & 19 nominations total"
+  },
+  {
+    "rank": 175,
+    "title": "Catch Me If You Can",
+    "year": 2002,
+    "runtimeMinutes": 141,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0264464",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SX600.jpg",
+    "director": "Steven Spielberg",
+    "plot": "Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.",
+    "actors": "Leonardo DiCaprio, Tom Hanks, Christopher Walken",
+    "awards": "Nominated for 2 Oscars. 16 wins & 46 nominations total"
+  },
+  {
+    "rank": 176,
+    "title": "The Gold Rush",
+    "year": 1925,
+    "runtimeMinutes": 95,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0015864",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX600.jpg",
+    "director": "Charles Chaplin",
+    "plot": "A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune, and is smitten with a girl he sees in a dance hall.",
+    "actors": "Charles Chaplin, Mack Swain, Tom Murray",
+    "awards": "Nominated for 2 Oscars. 3 wins & 3 nominations total"
+  },
+  {
+    "rank": 177,
+    "title": "On the Waterfront",
+    "year": 1954,
+    "runtimeMinutes": 108,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0047296",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX600.jpg",
+    "director": "Elia Kazan",
+    "plot": "An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of the syndicate's victims.",
+    "actors": "Marlon Brando, Karl Malden, Lee J. Cobb",
+    "awards": "Won 8 Oscars. 30 wins & 9 nominations total"
+  },
+  {
+    "rank": 178,
+    "title": "Children of Heaven",
+    "year": 1997,
+    "runtimeMinutes": 89,
+    "genres": [
+      "Drama",
+      "Family",
+      "Sport"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0118849",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Majid Majidi",
+    "plot": "After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to \"win\" a new pair.",
+    "actors": "Mohammad Amir Naji, Amir Farrokh Hashemian, Bahare Seddiqi",
+    "awards": "Nominated for 1 Oscar. 13 wins & 5 nominations total"
+  },
+  {
+    "rank": 179,
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "year": 2011,
+    "runtimeMinutes": 130,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Mystery"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt1201607",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX600.jpg",
+    "director": "David Yates",
+    "plot": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+    "actors": "Daniel Radcliffe, Emma Watson, Rupert Grint",
+    "awards": "Nominated for 3 Oscars. 46 wins & 94 nominations total"
+  },
+  {
+    "rank": 180,
+    "title": "The Third Man",
+    "year": 1949,
+    "runtimeMinutes": 93,
+    "genres": [
+      "Film-Noir",
+      "Mystery",
+      "Thriller"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0041959",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Carol Reed",
+    "plot": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+    "actors": "Orson Welles, Joseph Cotten, Alida Valli",
+    "awards": "Won 1 Oscar. 5 wins & 4 nominations total"
+  },
+  {
+    "rank": 181,
+    "title": "Gone Girl",
+    "year": 2014,
+    "runtimeMinutes": 149,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt2267998",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_SX600.jpg",
+    "director": "David Fincher",
+    "plot": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+    "actors": "Ben Affleck, Rosamund Pike, Neil Patrick Harris",
+    "awards": "Nominated for 1 Oscar. 64 wins & 188 nominations total"
+  },
+  {
+    "rank": 182,
+    "title": "12 Years a Slave",
+    "year": 2013,
+    "runtimeMinutes": 134,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt2024544",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_SX600.jpg",
+    "director": "Steve McQueen",
+    "plot": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+    "actors": "Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender",
+    "awards": "Won 3 Oscars. 242 wins & 336 nominations total"
+  },
+  {
+    "rank": 183,
+    "title": "Ben-Hur",
+    "year": 1959,
+    "runtimeMinutes": 212,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0052618",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX600.jpg",
+    "director": "William Wyler",
+    "plot": "After a Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, he regains his freedom and comes back for revenge.",
+    "actors": "Charlton Heston, Jack Hawkins, Stephen Boyd",
+    "awards": "Won 11 Oscars. 29 wins & 16 nominations total"
+  },
+  {
+    "rank": 184,
+    "title": "The General",
+    "year": 1926,
+    "runtimeMinutes": 67,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0017925",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Clyde Bruckman, Buster Keaton",
+    "plot": "After being rejected by the Confederate military, not realizing it was due to his crucial civilian role, an engineer must single-handedly recapture his beloved locomotive after it is seized by Union spies and return it through enemy ",
+    "actors": "Buster Keaton, Marion Mack, Glen Cavender",
+    "awards": "2 wins & 1 nomination"
+  },
+  {
+    "rank": 185,
+    "title": "The Deer Hunter",
+    "year": 1978,
+    "runtimeMinutes": 183,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0077416",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Michael Cimino",
+    "plot": "An in-depth examination of the ways in which the Vietnam War impacts and disrupts the lives of several friends in a small steel mill town in Pennsylvania.",
+    "actors": "Robert De Niro, Christopher Walken, John Cazale",
+    "awards": "Won 5 Oscars. 24 wins & 27 nominations total"
+  },
+  {
+    "rank": 186,
+    "title": "Before Sunrise",
+    "year": 1995,
+    "runtimeMinutes": 101,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0112471",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Richard Linklater",
+    "plot": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+    "actors": "Ethan Hawke, Julie Delpy, Andrea Eckert",
+    "awards": "1 win & 7 nominations"
+  },
+  {
+    "rank": 187,
+    "title": "Wild Strawberries",
+    "year": 1957,
+    "runtimeMinutes": 91,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0050986",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWQxYzdhMDMtNjAyZC00NzE0LWFjYmQtYjk0YzMyYjA5NzZkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX600.jpg",
+    "director": "Ingmar Bergman",
+    "plot": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",
+    "actors": "Victor Sjöström, Bibi Andersson, Ingrid Thulin",
+    "awards": "Nominated for 1 Oscar. 18 wins & 4 nominations total"
+  },
+  {
+    "rank": 188,
+    "title": "In the Name of the Father",
+    "year": 1993,
+    "runtimeMinutes": 133,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0107207",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Jim Sheridan",
+    "plot": "A man's coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.",
+    "actors": "Daniel Day-Lewis, Pete Postlethwaite, Alison Crosbie",
+    "awards": "Nominated for 7 Oscars. 7 wins & 41 nominations total"
+  },
+  {
+    "rank": 189,
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "runtimeMinutes": 99,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt2278388",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_SX600.jpg",
+    "director": "Wes Anderson",
+    "plot": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+    "actors": "Ralph Fiennes, F. Murray Abraham, Mathieu Amalric",
+    "awards": "Won 4 Oscars. 134 wins & 226 nominations total"
+  },
+  {
+    "rank": 190,
+    "title": "Mr. Smith Goes to Washington",
+    "year": 1939,
+    "runtimeMinutes": 129,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0031679",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX600.jpg",
+    "director": "Frank Capra",
+    "plot": "A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his char",
+    "actors": "James Stewart, Jean Arthur, Claude Rains",
+    "awards": "Won 1 Oscar. 6 wins & 16 nominations total"
+  },
+  {
+    "rank": 191,
+    "title": "Room",
+    "year": 2015,
+    "runtimeMinutes": 118,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt3170832",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_SX600.jpg",
+    "director": "Lenny Abrahamson",
+    "plot": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",
+    "actors": "Brie Larson, Jacob Tremblay, Sean Bridgers",
+    "awards": "Won 1 Oscar. 108 wins & 140 nominations total"
+  },
+  {
+    "rank": 192,
+    "title": "Hacksaw Ridge",
+    "year": 2016,
+    "runtimeMinutes": 139,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt2119532",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_SX600.jpg",
+    "director": "Mel Gibson",
+    "plot": "World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+    "actors": "Andrew Garfield, Sam Worthington, Luke Bracey",
+    "awards": "Won 2 Oscars. 56 wins & 115 nominations total"
+  },
+  {
+    "rank": 193,
+    "title": "Sherlock Jr.",
+    "year": 1924,
+    "runtimeMinutes": 45,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0015324",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX600.jpg",
+    "director": "Buster Keaton",
+    "plot": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+    "actors": "Buster Keaton, Kathryn McGuire, Joe Keaton",
+    "awards": "1 win"
+  },
+  {
+    "rank": 194,
+    "title": "Pather Panchali",
+    "year": 1955,
+    "runtimeMinutes": 125,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.4,
+    "imdbId": "tt0048473",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmFkNDY5OTktNzY3Yy00OTFlLThhNjktOTRhMmZjZmIxYjAxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_SX600.jpg",
+    "director": "Satyajit Ray",
+    "plot": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+    "actors": "Kanu Bannerjee, Karuna Bannerjee, Subir Banerjee",
+    "awards": "Nominated for 1 BAFTA Film Award11 wins & 2 nominations total"
+  },
+  {
+    "rank": 195,
+    "title": "How to Train Your Dragon",
+    "year": 2010,
+    "runtimeMinutes": 98,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0892769",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_SX600.jpg",
+    "director": "Dean DeBlois, Chris Sanders",
+    "plot": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+    "actors": "Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse",
+    "awards": "Nominated for 2 Oscars. 25 wins & 63 nominations total"
+  },
+  {
+    "rank": 196,
+    "title": "The Wages of Fear",
+    "year": 1953,
+    "runtimeMinutes": 131,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0046268",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX600.jpg",
+    "director": "Henri-Georges Clouzot",
+    "plot": "In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.",
+    "actors": "Yves Montand, Charles Vanel, Peter van Eyck",
+    "awards": "Won 1 BAFTA Film Award6 wins total"
+  },
+  {
+    "rank": 197,
+    "title": "Barry Lyndon",
+    "year": 1975,
+    "runtimeMinutes": 185,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "History"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0072684",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX600.jpg",
+    "director": "Stanley Kubrick",
+    "plot": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+    "actors": "Ryan O'Neal, Marisa Berenson, Patrick Magee",
+    "awards": "Won 4 Oscars. 19 wins & 15 nominations total"
+  },
+  {
+    "rank": 198,
+    "title": "Memories of Murder",
+    "year": 2003,
+    "runtimeMinutes": 132,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0353969",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX600.jpg",
+    "director": "Bong Joon Ho",
+    "plot": "In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
+    "actors": "Kang-ho Song, Kim Sang-kyung, Roe-ha Kim",
+    "awards": "33 wins & 5 nominations"
+  },
+  {
+    "rank": 199,
+    "title": "The Seventh Seal",
+    "year": 1957,
+    "runtimeMinutes": 96,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "History"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0050976",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2I1ZWU4YjMtYzU0My00YmMzLWFmNTAtZDJhZGYwMmI3YWQ5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Ingmar Bergman",
+    "plot": "A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
+    "actors": "Max von Sydow, Gunnar Björnstrand, Bengt Ekerot",
+    "awards": "10 wins & 2 nominations"
+  },
+  {
+    "rank": 200,
+    "title": "Klaus",
+    "year": 2019,
+    "runtimeMinutes": 96,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt4729430",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX600.jpg",
+    "director": "Sergio Pablos, Carlos Martínez López",
+    "plot": "A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.",
+    "actors": "Jason Schwartzman, J.K. Simmons, Rashida Jones",
+    "awards": "Nominated for 1 Oscar. 11 wins & 26 nominations total"
+  },
+  {
+    "rank": 201,
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "runtimeMinutes": 120,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt1392190",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX600.jpg",
+    "director": "George Miller",
+    "plot": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
+    "actors": "Tom Hardy, Charlize Theron, Nicholas Hoult",
+    "awards": "Won 6 Oscars. 247 wins & 233 nominations total"
+  },
+  {
+    "rank": 202,
+    "title": "The Big Lebowski",
+    "year": 1998,
+    "runtimeMinutes": 117,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0118715",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_SX600.jpg",
+    "director": "Joel Coen, Ethan Coen",
+    "plot": "Ultimate L.A. slacker Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for a rug ruined by debt collectors, enlisting his bowling buddies for help while trying to find the millionaire's missing",
+    "actors": "Jeff Bridges, John Goodman, Julianne Moore",
+    "awards": "5 wins & 18 nominations"
+  },
+  {
+    "rank": 203,
+    "title": "Wild Tales",
+    "year": 2014,
+    "runtimeMinutes": 122,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt3011894",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX600.jpg",
+    "director": "Damián Szifron",
+    "plot": "Six short stories that explore the extremities of human behavior involving people in distress.",
+    "actors": "Darío Grandinetti, María Marull, Mónica Villa",
+    "awards": "Nominated for 1 Oscar. 49 wins & 58 nominations total"
+  },
+  {
+    "rank": 204,
+    "title": "Monsters, Inc.",
+    "year": 2001,
+    "runtimeMinutes": 92,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0198781",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SX600.jpg",
+    "director": "Pete Docter, David Silverman, Lee Unkrich",
+    "plot": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.",
+    "actors": "Billy Crystal, John Goodman, Mary Gibbs",
+    "awards": "Won 1 Oscar. 15 wins & 38 nominations total"
+  },
+  {
+    "rank": 205,
+    "title": "Mary and Max",
+    "year": 2009,
+    "runtimeMinutes": 92,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0978762",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Adam Elliot",
+    "plot": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+    "actors": "Toni Collette, Philip Seymour Hoffman, Eric Bana",
+    "awards": "5 wins & 9 nominations"
+  },
+  {
+    "rank": 206,
+    "title": "Jaws",
+    "year": 1975,
+    "runtimeMinutes": 124,
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0073195",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX600.jpg",
+    "director": "Steven Spielberg",
+    "plot": "When a killer shark unleashes chaos on a beach community off Long Island, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+    "actors": "Roy Scheider, Robert Shaw, Richard Dreyfuss",
+    "awards": "Won 3 Oscars. 15 wins & 20 nominations total"
+  },
+  {
+    "rank": 207,
+    "title": "The Passion of Joan of Arc",
+    "year": 1928,
+    "runtimeMinutes": 114,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0019254",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Carl Theodor Dreyer",
+    "plot": "In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.",
+    "actors": "Maria Falconetti, Eugene Silvain, André Berley",
+    "awards": "5 wins & 2 nominations"
+  },
+  {
+    "rank": 208,
+    "title": "Hotel Rwanda",
+    "year": 2004,
+    "runtimeMinutes": 121,
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0395169",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX600.jpg",
+    "director": "Terry George",
+    "plot": "Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa.",
+    "actors": "Don Cheadle, Sophie Okonedo, Joaquin Phoenix",
+    "awards": "Nominated for 3 Oscars. 16 wins & 49 nominations total"
+  },
+  {
+    "rank": 209,
+    "title": "Rocky",
+    "year": 1976,
+    "runtimeMinutes": 120,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0075148",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_SX600.jpg",
+    "director": "John G. Avildsen",
+    "plot": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+    "actors": "Sylvester Stallone, Talia Shire, Burt Young",
+    "awards": "Won 3 Oscars. 20 wins & 22 nominations total"
+  },
+  {
+    "rank": 210,
+    "title": "Dead Poets Society",
+    "year": 1989,
+    "runtimeMinutes": 128,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0097165",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX600.jpg",
+    "director": "Peter Weir",
+    "plot": "Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression.",
+    "actors": "Robin Williams, Robert Sean Leonard, Ethan Hawke",
+    "awards": "Won 1 Oscar. 20 wins & 19 nominations total"
+  },
+  {
+    "rank": 211,
+    "title": "Tokyo Story",
+    "year": 1953,
+    "runtimeMinutes": 136,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0046438",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "Yasujirô Ozu",
+    "plot": "An old couple visit their children and grandchildren in the city, but receive little attention.",
+    "actors": "Chishû Ryû, Chieko Higashiyama, Sô Yamamura",
+    "awards": "3 wins"
+  },
+  {
+    "rank": 212,
+    "title": "Platoon",
+    "year": 1986,
+    "runtimeMinutes": 120,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0091763",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX600.jpg",
+    "director": "Oliver Stone",
+    "plot": "Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.",
+    "actors": "Charlie Sheen, Tom Berenger, Willem Dafoe",
+    "awards": "Won 4 Oscars. 24 wins & 15 nominations total"
+  },
+  {
+    "rank": 213,
+    "title": "Ford v Ferrari",
+    "year": 2019,
+    "runtimeMinutes": 152,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt1950186",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_SX600.jpg",
+    "director": "James Mangold",
+    "plot": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+    "actors": "Matt Damon, Christian Bale, Jon Bernthal",
+    "awards": "Won 2 Oscars. 25 wins & 91 nominations total"
+  },
+  {
+    "rank": 214,
+    "title": "The Terminator",
+    "year": 1984,
+    "runtimeMinutes": 107,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0088247",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "James Cameron",
+    "plot": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation",
+    "actors": "Arnold Schwarzenegger, Linda Hamilton, Michael Biehn",
+    "awards": "8 wins & 6 nominations"
+  },
+  {
+    "rank": 215,
+    "title": "Stand by Me",
+    "year": 1986,
+    "runtimeMinutes": 89,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0092005",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX600.jpg",
+    "director": "Rob Reiner",
+    "plot": "After the death of one of his friends, a writer recounts a childhood journey with his friends to find the body of a missing boy.",
+    "actors": "Wil Wheaton, River Phoenix, Corey Feldman",
+    "awards": "Nominated for 1 Oscar. 5 wins & 11 nominations total"
+  },
+  {
+    "rank": 216,
+    "title": "Rush",
+    "year": 2013,
+    "runtimeMinutes": 123,
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt1979320",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Ron Howard",
+    "plot": "The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",
+    "actors": "Daniel Brühl, Chris Hemsworth, Olivia Wilde",
+    "awards": "Won 1 BAFTA Film Award6 wins & 65 nominations total"
+  },
+  {
+    "rank": 217,
+    "title": "Into the Wild",
+    "year": 2007,
+    "runtimeMinutes": 148,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0758758",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAwNDEyODU1MjheQTJeQWpwZ15BbWU2MDc3NDQwNw@@._V1_SX600.jpg",
+    "director": "Sean Penn",
+    "plot": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, C",
+    "actors": "Emile Hirsch, Vince Vaughn, Catherine Keener",
+    "awards": "Nominated for 2 Oscars. 23 wins & 106 nominations total"
+  },
+  {
+    "rank": 218,
+    "title": "Logan",
+    "year": 2017,
+    "runtimeMinutes": 137,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt3315342",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX600.jpg",
+    "director": "James Mangold",
+    "plot": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
+    "actors": "Hugh Jackman, Patrick Stewart, Dafne Keen",
+    "awards": "Nominated for 1 Oscar. 28 wins & 80 nominations total"
+  },
+  {
+    "rank": 219,
+    "title": "The Wizard of Oz",
+    "year": 1939,
+    "runtimeMinutes": 102,
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0032138",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_SX600.jpg",
+    "director": "Victor Fleming, George Cukor, Mervyn LeRoy",
+    "plot": "Young Dorothy Gale and her dog are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others' wishe",
+    "actors": "Judy Garland, Frank Morgan, Ray Bolger",
+    "awards": "Won 2 Oscars. 13 wins & 16 nominations total"
+  },
+  {
+    "rank": 220,
+    "title": "Spotlight",
+    "year": 2015,
+    "runtimeMinutes": 129,
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt1895587",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_SX600.jpg",
+    "director": "Tom McCarthy",
+    "plot": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+    "actors": "Mark Ruffalo, Michael Keaton, Rachel McAdams",
+    "awards": "Won 2 Oscars. 124 wins & 143 nominations total"
+  },
+  {
+    "rank": 221,
+    "title": "Network",
+    "year": 1976,
+    "runtimeMinutes": 121,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0074958",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGNjYjM2MzItZGQzZi00NmY3LTgxOGUtMTQ2MWQxNWQ2MmMwXkEyXkFqcGdeQXVyNzM0MTUwNTY@._V1_SX600.jpg",
+    "director": "Sidney Lumet",
+    "plot": "A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit, but finds that his message may be difficult to control.",
+    "actors": "Faye Dunaway, William Holden, Peter Finch",
+    "awards": "Won 4 Oscars. 20 wins & 26 nominations total"
+  },
+  {
+    "rank": 222,
+    "title": "Groundhog Day",
+    "year": 1993,
+    "runtimeMinutes": 101,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0107048",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Harold Ramis",
+    "plot": "A self-centered Pittsburgh weatherman finds himself inexplicably trapped in a small town as he lives the same day over and over again.",
+    "actors": "Bill Murray, Andie MacDowell, Chris Elliott",
+    "awards": "Won 1 BAFTA Film Award7 wins & 17 nominations total"
+  },
+  {
+    "rank": 223,
+    "title": "Ratatouille",
+    "year": 2007,
+    "runtimeMinutes": 111,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0382932",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_SX600.jpg",
+    "director": "Brad Bird, Jan Pinkava",
+    "plot": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+    "actors": "Brad Garrett, Lou Romano, Patton Oswalt",
+    "awards": "Won 1 Oscar. 67 wins & 42 nominations total"
+  },
+  {
+    "rank": 224,
+    "title": "The Exorcist",
+    "year": 1973,
+    "runtimeMinutes": 122,
+    "genres": [
+      "Horror"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0070047",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjhmMGMxZDYtMTkyNy00YWVmLTgyYmUtYTU3ZjcwNTBjN2I1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX600.jpg",
+    "director": "William Friedkin",
+    "plot": "When a 12-year-old girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her.",
+    "actors": "Ellen Burstyn, Max von Sydow, Linda Blair",
+    "awards": "Won 2 Oscars. 16 wins & 17 nominations total"
+  },
+  {
+    "rank": 225,
+    "title": "Hachi: A Dog's Tale",
+    "year": 2009,
+    "runtimeMinutes": 93,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Family"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt1028532",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX600.jpg",
+    "director": "Lasse Hallström",
+    "plot": "A college professor bonds with an abandoned dog he takes into his home.",
+    "actors": "Richard Gere, Joan Allen, Cary-Hiroyuki Tagawa",
+    "awards": "1 nomination"
+  },
+  {
+    "rank": 226,
+    "title": "The Incredibles",
+    "year": 2004,
+    "runtimeMinutes": 115,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "imdbRating": 8.0,
+    "imdbId": "tt0317705",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_SX600.jpg",
+    "director": "Brad Bird",
+    "plot": "A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world.",
+    "actors": "Craig T. Nelson, Samuel L. Jackson, Holly Hunter",
+    "awards": "Won 2 Oscars. 67 wins & 56 nominations total"
+  },
+  {
+    "rank": 227,
+    "title": "Before Sunset",
+    "year": 2004,
+    "runtimeMinutes": 80,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0381681",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_SX600.jpg",
+    "director": "Richard Linklater",
+    "plot": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.",
+    "actors": "Ethan Hawke, Julie Delpy, Vernon Dobtcheff",
+    "awards": "Nominated for 1 Oscar. 9 wins & 32 nominations total"
+  },
+  {
+    "rank": 228,
+    "title": "The Best Years of Our Lives",
+    "year": 1946,
+    "runtimeMinutes": 170,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0036868",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "William Wyler",
+    "plot": "Three World War II veterans, two of them traumatized or disabled, return home to the American midwest to discover that they and their families have been irreparably changed.",
+    "actors": "Myrna Loy, Dana Andrews, Fredric March",
+    "awards": "Won 7 Oscars. 21 wins & 4 nominations total"
+  },
+  {
+    "rank": 229,
+    "title": "Dersu Uzala",
+    "year": 1975,
+    "runtimeMinutes": 142,
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0071411",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWY0OWJlZTgtMWUzNy00MGJhLTk5YzQtNmY5MDEwOTIxNjMyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX600.jpg",
+    "director": "Akira Kurosawa",
+    "plot": "The Russian army sends an explorer on an expedition to the snowy Siberian wilderness where he makes friends with a seasoned local hunter.",
+    "actors": "Maksim Munzuk, Yuriy Solomin, Mikhail Bychkov",
+    "awards": "Won 1 Oscar. 8 wins & 2 nominations total"
+  },
+  {
+    "rank": 230,
+    "title": "Rebecca",
+    "year": 1940,
+    "runtimeMinutes": 130,
+    "genres": [
+      "Drama",
+      "Film-Noir",
+      "Mystery"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0032976",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX600.jpg",
+    "director": "Alfred Hitchcock",
+    "plot": "A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.",
+    "actors": "Laurence Olivier, Joan Fontaine, George Sanders",
+    "awards": "Won 2 Oscars. 7 wins & 10 nominations total"
+  },
+  {
+    "rank": 231,
+    "title": "My Father and My Son",
+    "year": 2005,
+    "runtimeMinutes": 112,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "imdbRating": 8.3,
+    "imdbId": "tt0476735",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjAzMzEwYzctNjc1MC00Nzg5LWFmMGItMTgzYmMyNTY2OTQ4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "Cagan Irmak",
+    "plot": "The family of a left-wing journalist is torn apart after the military coup of Turkey in 1980.",
+    "actors": "Eser Sariyar, Çetin Tekindor, Fikret Kuskan",
+    "awards": "14 wins & 7 nominations"
+  },
+  {
+    "rank": 232,
+    "title": "Cool Hand Luke",
+    "year": 1967,
+    "runtimeMinutes": 127,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0061512",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjcwNTQ3Y2EtMjdmZi00ODBhLWFhNzQtOTc3MWU5NTZlMDViXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX600.jpg",
+    "director": "Stuart Rosenberg",
+    "plot": "A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.",
+    "actors": "Paul Newman, George Kennedy, Strother Martin",
+    "awards": "Won 1 Oscar. 4 wins & 10 nominations total"
+  },
+  {
+    "rank": 233,
+    "title": "The Grapes of Wrath",
+    "year": 1940,
+    "runtimeMinutes": 129,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0032551",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX600.jpg",
+    "director": "John Ford",
+    "plot": "An Oklahoma family driven off their farm by the poverty and hopelessness of the Dust Bowl joins the westward migration to California, suffering the misfortunes of the homeless in the Great Depression.",
+    "actors": "Henry Fonda, Jane Darwell, John Carradine",
+    "awards": "Won 2 Oscars. 10 wins & 5 nominations total"
+  },
+  {
+    "rank": 234,
+    "title": "The Battle of Algiers",
+    "year": 1966,
+    "runtimeMinutes": 121,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0058946",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2M4YTA4ZTEtN2EyNy00YTlmLWE4YzYtYjYyYjRkMWM4ZDM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX600.jpg",
+    "director": "Gillo Pontecorvo",
+    "plot": "In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.",
+    "actors": "Brahim Hadjadj, Jean Martin, Yacef Saadi",
+    "awards": "Nominated for 3 Oscars. 9 wins & 9 nominations total"
+  },
+  {
+    "rank": 235,
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": 2003,
+    "runtimeMinutes": 143,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "imdbRating": 8.0,
+    "imdbId": "tt0325980",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX600.jpg",
+    "director": "Gore Verbinski",
+    "plot": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+    "actors": "Johnny Depp, Geoffrey Rush, Orlando Bloom",
+    "awards": "Nominated for 5 Oscars. 38 wins & 104 nominations total"
+  },
+  {
+    "rank": 236,
+    "title": "To Be or Not to Be",
+    "year": 1942,
+    "runtimeMinutes": 99,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "War"
+    ],
+    "imdbRating": 8.2,
+    "imdbId": "tt0035446",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTIwNDcyMjktMTczMy00NDM5LTlhNDEtMmE3NGVjOTM2YjQ3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SX600.jpg",
+    "director": "Ernst Lubitsch",
+    "plot": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+    "actors": "Carole Lombard, Jack Benny, Robert Stack",
+    "awards": "Nominated for 1 Oscar. 2 wins & 2 nominations total"
+  },
+  {
+    "rank": 237,
+    "title": "Amores perros",
+    "year": 2000,
+    "runtimeMinutes": 154,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0245712",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQxMWJhMzMtMzllZi00NzMwLTllYjktNTcwZmU4ZmU3NTA0XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_SX600.jpg",
+    "director": "Alejandro G. Iñárritu",
+    "plot": "A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.",
+    "actors": "Emilio Echevarría, Gael García Bernal, Goya Toledo",
+    "awards": "Nominated for 1 Oscar. 55 wins & 25 nominations total"
+  },
+  {
+    "rank": 238,
+    "title": "The Sound of Music",
+    "year": 1965,
+    "runtimeMinutes": 172,
+    "genres": [
+      "Biography",
+      "Drama",
+      "Family"
+    ],
+    "imdbRating": 8.0,
+    "imdbId": "tt0059742",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2Q3YWMzMWItMjY4NS00ZjQ4LWEwYzQtODMwMjU1ZDg4ZjA4XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX600.jpg",
+    "director": "Robert Wise",
+    "plot": "A young novitiate is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer.",
+    "actors": "Julie Andrews, Christopher Plummer, Eleanor Parker",
+    "awards": "Won 5 Oscars. 17 wins & 13 nominations total"
+  },
+  {
+    "rank": 239,
+    "title": "Life of Brian",
+    "year": 1979,
+    "runtimeMinutes": 94,
+    "genres": [
+      "Comedy"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0079470",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzAwNjU1OTktYjY3Mi00NDY5LWFlZWUtZjhjNGE0OTkwZDkwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX600.jpg",
+    "director": "Terry Jones",
+    "plot": "Born on the original Christmas in the stable next door to Jesus Christ, Brian of Nazareth spends his life being mistaken for a messiah.",
+    "actors": "Graham Chapman, John Cleese, Michael Palin"
+  },
+  {
+    "rank": 240,
+    "title": "The 400 Blows",
+    "year": 1959,
+    "runtimeMinutes": 99,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0053198",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTQ4MjA4NmYtYjRhNi00MTEwLTg0NjgtNjk3ODJlZGU4NjRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX600.jpg",
+    "director": "François Truffaut",
+    "plot": "A young boy, left without attention, delves into a life of petty crime.",
+    "actors": "Jean-Pierre Léaud, Albert Rémy, Claire Maurier",
+    "awards": "Nominated for 1 Oscar. 10 wins & 7 nominations total"
+  },
+  {
+    "rank": 241,
+    "title": "Persona",
+    "year": 1966,
+    "runtimeMinutes": 83,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0060827",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjdhMGYyNTYtNTg5OC00MzY0LWE4YjctZWI3NDRkMzIyODBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX600.jpg",
+    "director": "Ingmar Bergman",
+    "plot": "A nurse is put in charge of a mute actress and finds that their personae are melding together.",
+    "actors": "Bibi Andersson, Liv Ullmann, Margaretha Krook",
+    "awards": "Nominated for 1 BAFTA Film Award11 wins & 5 nominations total"
+  },
+  {
+    "rank": 242,
+    "title": "It Happened One Night",
+    "year": 1934,
+    "runtimeMinutes": 105,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0025316",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX600.jpg",
+    "director": "Frank Capra",
+    "plot": "A renegade reporter trailing a young runaway heiress for a big story joins her on a bus heading from Florida to New York, and they end up stuck with each other when the bus leaves them behind at one of the stops.",
+    "actors": "Clark Gable, Claudette Colbert, Walter Connolly",
+    "awards": "Won 5 Oscars. 11 wins & 2 nominations total"
+  },
+  {
+    "rank": 243,
+    "title": "La Haine",
+    "year": 1995,
+    "runtimeMinutes": 98,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0113247",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDNiOTA5YjktY2Q0Ni00ODgzLWE5MWItNGExOWRlYjY2MjBlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX600.jpg",
+    "director": "Mathieu Kassovitz",
+    "plot": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+    "actors": "Vincent Cassel, Hubert Koundé, Saïd Taghmaoui",
+    "awards": "8 wins & 15 nominations"
+  },
+  {
+    "rank": 244,
+    "title": "Aladdin",
+    "year": 1992,
+    "runtimeMinutes": 90,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0103639",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2Q2NDI1MjUtM2Q5ZS00MTFlLWJiYWEtNTZmNjQ3OGJkZDgxXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX600.jpg",
+    "director": "Ron Clements, John Musker",
+    "plot": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+    "actors": "Scott Weinger, Robin Williams, Linda Larkin",
+    "awards": "Won 2 Oscars. 32 wins & 22 nominations total"
+  },
+  {
+    "rank": 245,
+    "title": "Dune",
+    "year": 2021,
+    "runtimeMinutes": 155,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt1160419",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX600.jpg",
+    "director": "Denis Villeneuve",
+    "plot": "Feature adaptation of Frank Herbert's science fiction novel about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.",
+    "actors": "Timothée Chalamet, Rebecca Ferguson, Zendaya",
+    "awards": "Nominated for 10 Oscars. 142 wins & 270 nominations total"
+  },
+  {
+    "rank": 246,
+    "title": "Beauty and the Beast",
+    "year": 1991,
+    "runtimeMinutes": 84,
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0101414",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzE5MDM1NDktY2I0OC00YWI5LTk2NzUtYjczNDczOWQxYjM0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX600.jpg",
+    "director": "Gary Trousdale, Kirk Wise",
+    "plot": "A prince cursed to spend his days as a hideous monster sets out to regain his humanity by earning a young woman's love.",
+    "actors": "Paige O'Hara, Robby Benson, Jesse Corti",
+    "awards": "Won 2 Oscars. 31 wins & 32 nominations total"
+  },
+  {
+    "rank": 247,
+    "title": "Gandhi",
+    "year": 1982,
+    "runtimeMinutes": 191,
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "imdbRating": 8.0,
+    "imdbId": "tt0083987",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzJiZDRmOWUtYjE2MS00Mjc1LTg1ZDYtNTQxYWJkZTg1OTM4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX600.jpg",
+    "director": "Richard Attenborough",
+    "plot": "The life of the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest.",
+    "actors": "Ben Kingsley, John Gielgud, Rohini Hattangadi",
+    "awards": "Won 8 Oscars. 35 wins & 21 nominations total"
+  },
+  {
+    "rank": 248,
+    "title": "The Help",
+    "year": 2011,
+    "runtimeMinutes": 146,
+    "genres": [
+      "Drama"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt1454029",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_SX600.jpg",
+    "director": "Tate Taylor",
+    "plot": "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basi",
+    "actors": "Emma Stone, Viola Davis, Octavia Spencer",
+    "awards": "Won 1 Oscar. 79 wins & 121 nominations total"
+  },
+  {
+    "rank": 249,
+    "title": "The Handmaiden",
+    "year": 2016,
+    "runtimeMinutes": 145,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt4016934",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX600.jpg",
+    "director": "Park Chan-wook",
+    "plot": "A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.",
+    "actors": "Kim Min-hee, Ha Jung-woo, Cho Jin-woong",
+    "awards": "Won 1 BAFTA Film Award70 wins & 108 nominations total"
+  },
+  {
+    "rank": 250,
+    "title": "Dances with Wolves",
+    "year": 1990,
+    "runtimeMinutes": 181,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "imdbRating": 8.1,
+    "imdbId": "tt0099348",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3OTI5NDczN15BMl5BanBnXkFtZTcwNDA0NDY3Mw@@._V1_SX600.jpg",
+    "director": "Kevin Costner",
+    "plot": "Lieutenant John Dunbar, assigned to a remote western Civil War outpost, befriends wolves and Native Americans, making him an intolerable aberration in the military.",
+    "actors": "Kevin Costner, Mary McDonnell, Graham Greene",
+    "awards": "Won 7 Oscars. 51 wins & 38 nominations total"
+  }
+]
