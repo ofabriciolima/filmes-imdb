@@ -108,6 +108,32 @@ npm run lint    # ESLint
 - **📄 Ver detalhes**: abre um modal com sinopse, direção, elenco e prêmios.
 - **Toggle "Incluir filmes já vistos"** (canto superior direito): quando desligado, remove do sorteio todos os filmes já marcados como assistidos. Se todos os 250 já tiverem sido assistidos, a tela mostra uma mensagem de parabéns com a opção de reiniciar o histórico.
 
+## Deploy (VPS + Easypanel)
+
+O projeto inclui um `Dockerfile` (multi-stage, usando `output: "standalone"` do Next.js) pronto para builds via Easypanel/Docker.
+
+1. Suba este repositório para o GitHub (ou GitLab).
+2. No Easypanel, crie um novo **App** apontando para o repositório, método de build **Dockerfile**.
+3. Em **Environment Variables** do serviço, adicione:
+   ```
+   NEXT_PUBLIC_SUPABASE_URL=https://seu-projeto.supabase.co
+   NEXT_PUBLIC_SUPABASE_ANON_KEY=sua-chave-anon-public
+   ```
+   Essas variáveis precisam estar disponíveis **no momento do build** (o Dockerfile as recebe como `ARG`/`ENV`), não só em runtime — no Easypanel, variáveis de ambiente do serviço já são repassadas ao build do Docker automaticamente.
+4. Porta do container: **3000** (já exposta no Dockerfile).
+5. Configure o domínio do app no Easypanel — ele emite o certificado HTTPS (Let's Encrypt) automaticamente.
+6. Deploy. A cada novo push na branch configurada, o Easypanel reconstrói e publica a nova versão.
+
+Para build/teste local do Docker (requer Docker instalado):
+
+```bash
+docker build \
+  --build-arg NEXT_PUBLIC_SUPABASE_URL=https://seu-projeto.supabase.co \
+  --build-arg NEXT_PUBLIC_SUPABASE_ANON_KEY=sua-chave-anon-public \
+  -t roleta-filmes .
+docker run -p 3000:3000 roleta-filmes
+```
+
 ## Nota sobre o ambiente de desenvolvimento
 
 Este projeto foi criado dentro de uma pasta sincronizada pelo iCloud Drive. Isso funciona, mas o iCloud tenta sincronizar continuamente a pasta `node_modules` (milhares de arquivos pequenos), o que pode deixar o Finder/iCloud lento. Se notar lentidão, considere:
