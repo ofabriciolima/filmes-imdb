@@ -4,7 +4,7 @@ const TABLE = "filmes_imdb";
 
 /** Busca o conjunto de rankings já marcados como assistidos. */
 export async function getWatchedRanks(): Promise<Set<number>> {
-  const supabase = getSupabaseClient();
+  const supabase = await getSupabaseClient();
   const { data, error } = await supabase
     .from(TABLE)
     .select("ranking_imdb")
@@ -27,7 +27,7 @@ export async function markAsWatched(
   rank: number,
   title: string
 ): Promise<void> {
-  const supabase = getSupabaseClient();
+  const supabase = await getSupabaseClient();
 
   const { data: existing, error: selectError } = await supabase
     .from(TABLE)
@@ -54,7 +54,7 @@ export async function markAsWatched(
 
 /** Reinicia o histórico: marca todos os registros como não assistidos. */
 export async function resetWatchedHistory(): Promise<void> {
-  const supabase = getSupabaseClient();
+  const supabase = await getSupabaseClient();
   const { error } = await supabase
     .from(TABLE)
     .update({ assistido: false })
