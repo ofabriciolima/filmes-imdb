@@ -41,6 +41,12 @@ export function useMovieDraw(
     setPhase("revealed");
   }, []);
 
+  const resetToIdle = useCallback(() => {
+    setPhase("idle");
+    setSelectedMovie(null);
+    setTargetRank(null);
+  }, []);
+
   const isAllWatched = phase === "idle" && eligibleMovies.length === 0;
 
   return {
@@ -53,5 +59,6 @@ export function useMovieDraw(
     totalCount: allMovies.length,
     draw,
     completeSpin,
+    resetToIdle,
   };
 }

@@ -36,6 +36,7 @@ export function RouletteApp() {
     totalCount,
     draw,
     completeSpin,
+    resetToIdle,
   } = useMovieDraw(allMovies, watchedRanks, includeWatched);
 
   const [detailsOpen, setDetailsOpen] = useState(false);
@@ -45,6 +46,7 @@ export function RouletteApp() {
   function handleMarkWatched() {
     if (!selectedMovie) return;
     markWatched(selectedMovie, "👁 Marcado como já visto");
+    resetToIdle();
   }
 
   function handleWatchNow() {
@@ -61,7 +63,8 @@ export function RouletteApp() {
 
   const handleConfettiComplete = useCallback(() => {
     setConfettiActive(false);
-  }, []);
+    resetToIdle();
+  }, [resetToIdle]);
 
   return (
     <div className="flex w-full flex-1 flex-col">
