@@ -100,7 +100,12 @@ export function RouletteApp() {
               animate={{ opacity: 1 }}
               exit={{ opacity: 0 }}
             >
-              <SpinWheel durationMs={spinDurationMs} onComplete={completeSpin} />
+              <SpinWheel
+                targetRank={targetRank}
+                totalCount={totalCount}
+                durationMs={spinDurationMs}
+                onComplete={completeSpin}
+              />
             </motion.div>
           ) : phase === "revealed" && selectedMovie ? (
             <motion.div
