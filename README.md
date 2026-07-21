@@ -32,9 +32,9 @@ Aplicação web para um casal decidir, em segundos, qual filme assistir — sort
 
 ## Dados dos 250 filmes
 
-O IMDb não oferece uma API pública oficial para o Top 250, então os dados (posição, título, ano, duração, gêneros, nota, pôster, sinopse, direção, elenco, prêmios) foram consolidados em `data/top250.json`, um snapshot público de **2022-04-03** com a ordem exata do ranking, incluindo os links dos pôsteres (hospedados no CDN do próprio IMDb, `m.media-amazon.com`).
+O IMDb não oferece uma API pública oficial para o Top 250, então os dados (título, ano, duração, gêneros, nota, pôster, sinopse, direção, elenco) foram consolidados em `data/top250.json` a partir de um scrape público (dados estruturados `schema.org` das próprias páginas do IMDb), atualizado em **2026-07-20**. A posição (`rank`) é calculada localmente ordenando por nota do IMDb (e número de votos como critério de desempate), uma aproximação bem próxima da ordem oficial do ranking. Os pôsteres continuam hospedados no CDN do próprio IMDb (`m.media-amazon.com`).
 
-Como o ranking do IMDb muda com o tempo, o arquivo pode ficar levemente desatualizado. Para atualizá-lo, basta substituir `data/top250.json` por um novo dataset no mesmo formato (veja `types/movie.ts`) — nenhuma outra parte do código precisa mudar.
+Como o ranking do IMDb muda com o tempo, o arquivo vai ficar gradualmente desatualizado. Para atualizá-lo, basta pedir para eu regenerar o dataset (ou substituir `data/top250.json` manualmente por um novo dataset no mesmo formato — veja `types/movie.ts`) — nenhuma outra parte do código precisa mudar.
 
 ## Configurando o Supabase
 
