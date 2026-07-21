@@ -1,6 +1,9 @@
 # syntax=docker.io/docker/dockerfile:1
 
 FROM node:24-alpine AS base
+# Necessário no Alpine (musl) para os binários nativos do Next.js
+# funcionarem corretamente em runtime.
+RUN apk add --no-cache libc6-compat
 
 FROM base AS deps
 WORKDIR /app
