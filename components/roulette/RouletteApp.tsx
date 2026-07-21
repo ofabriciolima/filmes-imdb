@@ -4,7 +4,7 @@ import { useCallback, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { Header } from "@/components/layout/Header";
 import { DrawButton } from "./DrawButton";
-import { SpinningNumbers } from "./SpinningNumbers";
+import { SpinWheel } from "./SpinWheel";
 import { MovieReveal } from "./MovieReveal";
 import { ActionButtons } from "./ActionButtons";
 import { MovieDetailsDialog } from "./MovieDetailsDialog";
@@ -100,11 +100,7 @@ export function RouletteApp() {
               animate={{ opacity: 1 }}
               exit={{ opacity: 0 }}
             >
-              <SpinningNumbers
-                targetRank={targetRank}
-                durationMs={spinDurationMs}
-                onComplete={completeSpin}
-              />
+              <SpinWheel durationMs={spinDurationMs} onComplete={completeSpin} />
             </motion.div>
           ) : phase === "revealed" && selectedMovie ? (
             <motion.div
