@@ -8,6 +8,7 @@ import {
   DialogDescription,
 } from "@/components/ui/dialog";
 import { Badge } from "@/components/ui/badge";
+import { WhereToWatch } from "./WhereToWatch";
 import type { Movie } from "@/types/movie";
 import { formatRuntime, formatRating, formatRank } from "@/utils/format";
 
@@ -69,6 +70,9 @@ export function MovieDetailsDialog({
                 )}
               </div>
             </div>
+
+            {/* key força remount ao trocar de filme, reiniciando o fetch/loading */}
+            <WhereToWatch key={movie.imdbId} imdbId={movie.imdbId} />
 
             <div className="flex flex-col gap-2 border-t border-border pt-3 text-sm text-muted-foreground">
               {movie.director && (

@@ -10,6 +10,7 @@ Aplicação web para um casal decidir, em segundos, qual filme assistir — sort
 - [Framer Motion](https://motion.dev) para as animações (roleta, revelação, confete)
 - [Supabase](https://supabase.com) — Auth (contas/sessão), Postgres + Row Level Security + funções `SECURITY DEFINER` (dados e regras de negócio), Realtime (sincronização entre dispositivos)
 - [@supabase/ssr](https://supabase.com/docs/guides/auth/server-side) para autenticação com cookies no App Router (client de browser, client de servidor e `proxy.ts`)
+- [TMDB API](https://www.themoviedb.org/documentation/api) para a seção "Onde assistir" (disponibilidade em streaming no Brasil)
 
 ## Estrutura do projeto
 
@@ -18,8 +19,9 @@ Aplicação web para um casal decidir, em segundos, qual filme assistir — sort
   layout.tsx, page.tsx, globals.css   # tema global, ponto de entrada (protegido por proxy.ts)
   /login, /signup                      # páginas públicas de autenticação
   /api/config                           # expõe a config pública do Supabase em runtime
+  /api/watch-providers/[imdbId]          # busca "onde assistir" (BR) na TMDB, chave só no servidor
 /components
-  /roulette               # RouletteApp (orquestrador) e todas as peças da roleta
+  /roulette               # RouletteApp (orquestrador), peças da roleta, WhereToWatch
   /layout                 # Header, WatchedToggle
   /auth                    # LoginForm, SignupForm
   /session                 # SessionBar, JoinSessionDialog
@@ -34,7 +36,7 @@ Aplicação web para um casal decidir, em segundos, qual filme assistir — sort
   watchedService.ts          # RPCs de filmes assistidos (get_watched_ranks, mark_watched, reset_watched_history)
   authService.ts             # signUp/signIn/signOut
   sessionService.ts          # criar/entrar/sair/encerrar sessão, buscar sessão atual + membros
-/types                     # Movie, WatchedRow, Profile, Session, SessionMember
+/types                     # Movie, WatchedRow, Profile, Session, SessionMember, WatchProvider
 /utils                     # random.ts, format.ts
 /data/top250.json           # dataset estático com os 250 filmes
 /supabase/migration_auth_sessions.sql   # schema completo (rode no SQL Editor do Supabase)
@@ -88,6 +90,23 @@ on conflict do nothing;
 - **Encerrar sessão**: só quem criou a sessão pode encerrá-la (remove todos os participantes e marca a sessão como `ended`).
 - Um usuário só participa de **uma sessão por vez** (garantido por índice único no banco), e uma sessão comporta 2 participantes por padrão — o schema já suporta aumentar esse limite no futuro (`sessions.max_members`) sem migração.
 
+## "Onde assistir" (TMDB)
+
+No modal de detalhes de cada filme, a seção **"Onde assistir no Brasil"** mostra os serviços de streaming disponíveis (assinatura, aluguel, compra, grátis/com anúncios), com logo e link — dados agregados pela [TMDB](https://www.themoviedb.org/) (que por sua vez usa JustWatch) filtrados para a região **BR**.
+
+1. Crie uma conta gratuita em [themoviedb.org](https://www.themoviedb.org/signup) (sem cartão).
+2. Em **Configurações > API**, solicite uma API Key tipo "Developer" (aprovação costuma ser instantânea).
+3. Copie a **"API Key (v3 auth)"** e adicione em `.env.local`:
+   ```
+   TMDB_API_KEY=sua-api-key-v3-da-tmdb
+   ```
+
+A chave fica só no servidor (rota `app/api/watch-providers/[imdbId]/route.ts`, que resolve o filme na TMDB a partir do `imdbId` e devolve só os dados da região BR já formatados) — o client nunca vê nem chama a TMDB diretamente. As respostas ficam em cache por 24h (Next.js Data Cache) para não estourar limite de requisições.
+
+Se um filme não tiver dado de disponibilidade para o Brasil (ou a `TMDB_API_KEY` não estiver configurada), a seção mostra uma mensagem explicando isso em vez de tentar adivinhar ou mostrar informação de outro país.
+
+> A TMDB exige atribuição visível quando seus dados são usados publicamente — por isso o rodapé da seção linka para "TMDB" como fonte dos dados.
+
 ## Instalação e execução
 
 Pré-requisito: [Node.js](https://nodejs.org) 20+.
@@ -114,7 +133,7 @@ npm run lint    # ESLint
 - **🎲 Sortear novamente**: repete o sorteio dentro do conjunto elegível atual.
 - **👁 Marcar como já visto**: marca o filme como assistido no contexto atual (pessoal ou da sessão) e volta pra tela inicial.
 - **🍿 Vamos assistir**: ação principal — dispara confete + mensagem comemorativa, marca como assistido e, ao final da animação, volta pra tela inicial.
-- **📄 Ver detalhes**: abre um modal com sinopse, direção, elenco e prêmios.
+- **📄 Ver detalhes**: abre um modal com sinopse, direção, elenco, prêmios e onde assistir no Brasil.
 - **Toggle "Incluir filmes já vistos"**: quando desligado, remove do sorteio todos os filmes já marcados como assistidos **no contexto atual**. Se todos os 250 já tiverem sido assistidos, a tela mostra uma mensagem de parabéns com a opção de reiniciar o histórico.
 - **Sessão compartilhada**: ver seção anterior. Enquanto participa de uma sessão, todo o histórico e o sorteio passam a ser da sessão, não do usuário individualmente.
 
@@ -133,6 +152,7 @@ Com o servidor local rodando (`npm run dev`) e a migration já aplicada no Supab
 9. **Tempo real em dois dispositivos**: com as duas contas logadas em abas/navegadores diferentes e na mesma sessão, marque um filme como assistido em uma aba — a outra aba deve atualizar sozinha (via Supabase Realtime), sem precisar recarregar.
 10. **Sair da sessão**: clique em "Sair" na barra da sessão — o histórico volta a ser o individual de antes de entrar na sessão.
 11. **Isolamento**: confirme que uma conta que nunca recebeu o código não consegue ver nomes, código ou histórico da sessão (ela nunca aparece na lista dela).
+12. **Onde assistir**: sorteie um filme, abra "Ver detalhes" e confirme que a seção "Onde assistir no Brasil" carrega os serviços (ou mostra a mensagem de indisponibilidade, se for o caso).
 
 ## Deploy (VPS + Easypanel)
 
@@ -146,6 +166,7 @@ A config pública do Supabase é lida em **runtime** (via `/api/config`, ver `li
    ```
    NEXT_PUBLIC_SUPABASE_URL=https://seu-projeto.supabase.co
    NEXT_PUBLIC_SUPABASE_ANON_KEY=sua-chave-anon-public
+   TMDB_API_KEY=sua-api-key-v3-da-tmdb
    ```
 4. Na aba **Domínios**, configure o domínio e aponte a porta interna do proxy para **3000** (a porta que o container expõe).
 5. No Supabase, em **Authentication > URL Configuration**, adicione a URL de produção (ex.: `https://seudominio.com`) em **Redirect URLs** — sem isso, o link de confirmação de e-mail enviado para usuários em produção não funciona (ele usa a URL configurada aqui, não a do request).
@@ -158,6 +179,7 @@ docker build -t roleta-filmes .
 docker run -p 3000:3000 \
   -e NEXT_PUBLIC_SUPABASE_URL=https://seu-projeto.supabase.co \
   -e NEXT_PUBLIC_SUPABASE_ANON_KEY=sua-chave-anon-public \
+  -e TMDB_API_KEY=sua-api-key-v3-da-tmdb \
   roleta-filmes
 ```
 
