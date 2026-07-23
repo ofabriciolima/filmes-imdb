@@ -2,6 +2,8 @@
 
 import { useCallback, useEffect, useState } from "react";
 import { toast } from "sonner";
+import type { RealtimeChannel } from "@supabase/supabase-js";
+import { getSupabaseClient } from "@/lib/supabase/client";
 import {
   getWatchedRanks,
   markAsWatched,
@@ -15,28 +17,61 @@ function errorMessage(error: unknown): string {
     : "Não foi possível conectar ao Supabase.";
 }
 
-export function useWatchedMovies() {
+/**
+ * `sessionId` é o contexto atual (null = histórico pessoal). Quando definido,
+ * assina mudanças em tempo real para refletir marcações feitas pelo parceiro.
+ */
+export function useWatchedMovies(sessionId: string | null) {
   const [watchedRanks, setWatchedRanks] = useState<Set<number>>(new Set());
   const [isLoading, setIsLoading] = useState(true);
 
+  const refresh = useCallback(async () => {
+    try {
+      const ranks = await getWatchedRanks();
+      setWatchedRanks(ranks);
+    } catch (error) {
+      toast.error("Não foi possível carregar os filmes assistidos", {
+        description: errorMessage(error),
+      });
+    }
+  }, []);
+
   useEffect(() => {
     let cancelled = false;
-    getWatchedRanks()
-      .then((ranks) => {
-        if (!cancelled) setWatchedRanks(ranks);
-      })
-      .catch((error) => {
-        toast.error("Não foi possível carregar os filmes assistidos", {
-          description: errorMessage(error),
-        });
-      })
-      .finally(() => {
-        if (!cancelled) setIsLoading(false);
-      });
+    let channel: RealtimeChannel | null = null;
+
+    (async () => {
+      setIsLoading(true);
+      await refresh();
+      if (cancelled) return;
+      setIsLoading(false);
+
+      if (!sessionId) return;
+
+      const supabase = await getSupabaseClient();
+      if (cancelled) return;
+      channel = supabase
+        .channel(`watched_movies_${sessionId}`)
+        .on(
+          "postgres_changes",
+          {
+            event: "*",
+            schema: "public",
+            table: "watched_movies",
+            filter: `session_id=eq.${sessionId}`,
+          },
+          () => {
+            refresh();
+          }
+        )
+        .subscribe();
+    })();
+
     return () => {
       cancelled = true;
+      channel?.unsubscribe();
     };
-  }, []);
+  }, [sessionId, refresh]);
 
   const markWatched = useCallback(
     async (movie: Movie, successMessage: string) => {

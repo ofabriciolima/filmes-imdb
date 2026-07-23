@@ -12,6 +12,8 @@ import { AllWatchedState } from "./AllWatchedState";
 import { ConfettiBurst } from "./ConfettiBurst";
 import { useWatchedMovies } from "@/hooks/useWatchedMovies";
 import { useMovieDraw } from "@/hooks/useMovieDraw";
+import { useAuth } from "@/hooks/useAuth";
+import { useSession } from "@/hooks/useSession";
 import { getAllMovies } from "@/services/moviesService";
 import { pickRandom } from "@/utils/random";
 
@@ -23,8 +25,23 @@ const CELEBRATION_MESSAGES = [
 ];
 
 export function RouletteApp() {
-  const { watchedRanks, isLoading, markWatched, resetHistory } =
-    useWatchedMovies();
+  const { user, signOut } = useAuth();
+  const {
+    session,
+    isLoading: isSessionLoading,
+    createSession,
+    joinSession,
+    leaveSession,
+    endSession,
+    regenerateCode,
+  } = useSession();
+  const {
+    watchedRanks,
+    isLoading: isWatchedLoading,
+    markWatched,
+    resetHistory,
+  } = useWatchedMovies(session?.id ?? null);
+  const isLoading = isSessionLoading || isWatchedLoading;
   const [includeWatched, setIncludeWatched] = useState(true);
   const {
     phase,
@@ -73,6 +90,15 @@ export function RouletteApp() {
         onIncludeWatchedChange={setIncludeWatched}
         eligibleCount={eligibleCount}
         totalCount={totalCount}
+        userEmail={user?.email ?? null}
+        onSignOut={signOut}
+        session={session}
+        currentUserId={user?.id ?? null}
+        onCreateSession={() => createSession()}
+        onJoinSession={joinSession}
+        onLeaveSession={leaveSession}
+        onEndSession={endSession}
+        onRegenerateCode={regenerateCode}
       />
 
       <main className="mx-auto flex w-full max-w-xl flex-1 flex-col items-center justify-center gap-8 px-4 py-8">

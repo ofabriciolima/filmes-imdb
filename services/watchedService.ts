@@ -1,63 +1,32 @@
 import { getSupabaseClient } from "@/lib/supabase/client";
 
-const TABLE = "filmes_imdb";
+/**
+ * Toda a resolução de contexto (histórico pessoal vs. da sessão compartilhada)
+ * e a atomicidade das escritas acontecem no banco, via RPCs `SECURITY DEFINER`
+ * (ver supabase/migration_auth_sessions.sql). O client nunca decide isso.
+ */
 
-/** Busca o conjunto de rankings já marcados como assistidos. */
+/** Busca o conjunto de rankings assistidos no contexto atual do usuário. */
 export async function getWatchedRanks(): Promise<Set<number>> {
   const supabase = await getSupabaseClient();
-  const { data, error } = await supabase
-    .from(TABLE)
-    .select("ranking_imdb")
-    .eq("assistido", true);
-
+  const { data, error } = await supabase.rpc("get_watched_ranks");
   if (error) throw error;
-
-  return new Set(
-    (data ?? [])
-      .map((row) => row.ranking_imdb)
-      .filter((rank): rank is number => rank !== null)
-  );
+  return new Set((data ?? []) as number[]);
 }
 
-/**
- * Marca um filme como assistido. Não há constraint UNIQUE em `ranking_imdb`
- * na tabela existente, então fazemos select-then-write em vez de upsert.
- */
-export async function markAsWatched(
-  rank: number,
-  title: string
-): Promise<void> {
+/** Marca um filme como assistido no contexto atual (pessoal ou sessão). */
+export async function markAsWatched(rank: number, title: string): Promise<void> {
   const supabase = await getSupabaseClient();
-
-  const { data: existing, error: selectError } = await supabase
-    .from(TABLE)
-    .select("id")
-    .eq("ranking_imdb", rank)
-    .maybeSingle();
-
-  if (selectError) throw selectError;
-
-  if (existing) {
-    const { error } = await supabase
-      .from(TABLE)
-      .update({ nome_filme: title, assistido: true })
-      .eq("id", existing.id);
-    if (error) throw error;
-    return;
-  }
-
-  const { error } = await supabase
-    .from(TABLE)
-    .insert({ nome_filme: title, ranking_imdb: rank, assistido: true });
+  const { error } = await supabase.rpc("mark_watched", {
+    p_ranking: rank,
+    p_title: title,
+  });
   if (error) throw error;
 }
 
-/** Reinicia o histórico: marca todos os registros como não assistidos. */
+/** Reinicia o histórico do contexto atual (pessoal ou sessão). */
 export async function resetWatchedHistory(): Promise<void> {
   const supabase = await getSupabaseClient();
-  const { error } = await supabase
-    .from(TABLE)
-    .update({ assistido: false })
-    .eq("assistido", true);
+  const { error } = await supabase.rpc("reset_watched_history");
   if (error) throw error;
 }
